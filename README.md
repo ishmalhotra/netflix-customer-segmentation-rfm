@@ -12,6 +12,8 @@ This project demonstrates how Netflix can segment its user base using Recency, F
 - `netflix_rfm_sample_data.csv` – Simulated user behavior data (Mockaroo)
 - `netflix_rfm_result-3.csv` – Final output with RFM score, segment, CLV, NBA
 - `sunburst.png`– sunburst visual
+- `heatmap.png`– heatmap visual
+- `netflix_segments.png`– boxplot visual
 
 ## 🧠 Methodology
 1. Simulated 500+ user profiles
@@ -29,9 +31,6 @@ This project demonstrates how Netflix can segment its user base using Recency, F
 | Inactive  | No recent activity        |
 | Average   | Mid-tier behavior         |
 
-## 🖼️ Sample Visuals
-![Heatmap](visuals/heatmap.png)
-![Boxplot](visuals/boxplot.png)
 
 ## 📎 Notebook Access
 [🔗 Open in Google Colab](https://colab.research.google.com/drive/1dTKvXYdyjoil8B07WPsnjpNVC1v-6oNq?usp=sharing)
