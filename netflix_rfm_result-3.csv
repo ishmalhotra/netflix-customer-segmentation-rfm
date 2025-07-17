@@ -1,0 +1,1801 @@
+customer_id,Recency,Frequency,Monetary,Recency_Score,Frequency_Score,Monetary_Score,RFM_Score,CLV,Customer_segment,Next_Best_Action,plan_type
+CUST100,340 days,34,6.3,1,1,1,1.0,63.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST101,218 days,882,272.94,2,5,5,3.5,2729.4,Average,Re-engagement emails + limited-time discounts,Premium
+CUST102,105 days,357,119.06,3,3,4,3.2,1190.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST103,78 days,826,218.49,5,5,5,5.0,2184.9,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST104,103 days,72,20.75,3,1,1,2.0,207.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST105,168 days,70,17.53,2,1,1,1.5,175.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST106,120 days,38,6.78,2,1,1,1.5,67.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST107,104 days,840,217.7,3,5,5,4.0,2177.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST108,81 days,560,142.58,5,4,4,4.5,1425.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST109,83 days,680,247.25,5,5,5,5.0,2472.5,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST110,91 days,61,16.87,4,1,1,2.5,168.7,At Risk,Win-back campaign + survey for feedback,Premium
+CUST111,171 days,1380,324.32,2,5,5,3.5,3243.2,Average,Re-engagement emails + limited-time discounts,Premium
+CUST112,89 days,1026,319.65,4,5,5,4.5,3196.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST113,78 days,185,32.5,5,2,2,3.5,325.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST114,85 days,140,28.36,5,2,2,3.5,283.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST115,218 days,28,6.65,2,1,1,1.5,66.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST116,92 days,210,72.75,4,2,3,3.2,727.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST117,224 days,320,79.33,2,3,3,2.5,793.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST118,196 days,266,71.24,2,3,3,2.5,712.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST119,104 days,180,40.34,3,2,2,2.5,403.4,At Risk,Win-back campaign + survey for feedback,Basic
+CUST120,80 days,630,152.22,5,4,4,4.5,1522.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST121,105 days,63,51.81,3,1,2,2.2,518.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST122,217 days,129,31.71,2,2,2,2.0,317.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST123,254 days,105,30.53,1,2,2,1.5,305.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST124,206 days,259,72.3,2,3,3,2.5,723.0,At Risk,Win-back campaign + survey for feedback,Standard
+CUST125,105 days,846,368.5,3,5,5,4.0,3685.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST126,96 days,180,94.38,4,2,3,3.2,943.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST127,340 days,160,29.99,1,2,2,1.5,299.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST128,187 days,451,132.05,2,4,4,3.0,1320.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST129,79 days,30,6.64,5,1,1,3.0,66.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST130,269 days,280,87.04,1,3,3,2.0,870.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST131,210 days,32,9.94,2,1,1,1.5,99.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST132,85 days,66,14.37,5,1,1,3.0,143.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST133,214 days,378,123.65,2,3,4,2.7,1236.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST134,276 days,1120,541.49,1,5,5,3.0,5414.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST135,242 days,700,210.73,1,5,5,3.0,2107.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST136,92 days,357,79.3,4,3,3,3.5,793.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST137,97 days,44,13.75,4,1,1,2.5,137.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST138,420 days,185,32.71,1,2,2,1.5,327.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST139,76 days,330,125.46,5,3,4,4.2,1254.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST140,76 days,207,48.59,5,2,2,3.5,485.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST141,90 days,240,89.9,4,2,3,3.2,899.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST142,88 days,41,10.15,4,1,1,2.5,101.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST143,182 days,612,133.01,2,4,4,3.0,1330.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST144,275 days,44,16.54,1,1,1,1.0,165.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST145,93 days,525,152.16,4,4,4,4.0,1521.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST146,102 days,315,79.93,3,3,3,3.0,799.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST147,88 days,492,130.34,4,4,4,4.0,1303.4,Loyal,Upsell to premium plan + referral program,Standard
+CUST148,279 days,246,71.81,1,3,3,2.0,718.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST149,211 days,22,6.49,2,1,1,1.5,64.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST150,83 days,483,165.36,5,4,4,4.5,1653.6,Loyal,Upsell to premium plan + referral program,Basic
+CUST151,264 days,552,187.35,1,4,5,2.7,1873.5,At Risk,Win-back campaign + survey for feedback,Premium
+CUST152,315 days,574,244.31,1,4,5,2.7,2443.1,At Risk,Win-back campaign + survey for feedback,Premium
+CUST153,367 days,720,185.36,1,5,5,3.0,1853.6,Average,Re-engagement emails + limited-time discounts,Premium
+CUST154,269 days,288,96.05,1,3,3,2.0,960.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST155,82 days,1100,380.03,5,5,5,5.0,3800.3,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST156,138 days,30,6.67,2,1,1,1.5,66.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST157,104 days,172,46.63,3,2,2,2.5,466.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST158,110 days,32,12.08,2,1,1,1.5,120.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST159,167 days,215,52.23,2,2,2,2.0,522.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST160,247 days,160,43.4,1,2,2,1.5,434.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST161,182 days,69,21.05,2,1,1,1.5,210.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST162,105 days,874,200.25,3,5,5,4.0,2002.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST163,82 days,495,129.96,5,4,4,4.5,1299.6,Loyal,Upsell to premium plan + referral program,Premium
+CUST164,269 days,32,10.37,1,1,1,1.0,103.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST165,352 days,116,26.74,1,2,2,1.5,267.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST166,93 days,120,20.73,4,2,1,2.8,207.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST167,104 days,612,117.54,3,4,3,3.3,1175.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST168,89 days,54,15.02,4,1,1,2.5,150.2,At Risk,Win-back campaign + survey for feedback,Basic
+CUST169,247 days,846,205.93,1,5,5,3.0,2059.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST170,269 days,384,120.94,1,3,4,2.2,1209.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST171,86 days,180,90.86,5,2,3,3.7,908.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST172,96 days,39,11.33,4,1,1,2.5,113.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST173,350 days,590,174.49,1,4,4,2.5,1744.9,At Risk,Win-back campaign + survey for feedback,Premium
+CUST174,186 days,364,81.84,2,3,3,2.5,818.4,At Risk,Win-back campaign + survey for feedback,Basic
+CUST175,91 days,731,427.52,4,5,5,4.5,4275.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST176,98 days,1116,312.45,3,5,5,4.0,3124.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST177,92 days,66,15.19,4,1,1,2.5,151.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST178,83 days,270,65.69,5,3,2,3.8,656.9,Average,Re-engagement emails + limited-time discounts,Basic
+CUST179,94 days,201,50.52,4,2,2,3.0,505.2,Average,Re-engagement emails + limited-time discounts,Premium
+CUST180,180 days,510,171.57,2,4,4,3.0,1715.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST181,436 days,99,33.06,1,2,2,1.5,330.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST182,239 days,75,19.84,1,1,1,1.0,198.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST183,123 days,51,10.29,2,1,1,1.5,102.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST184,95 days,385,81.7,4,3,3,3.5,817.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST185,105 days,168,45.36,3,2,2,2.5,453.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST186,76 days,576,196.58,5,4,5,4.7,1965.8,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST187,100 days,315,114.05,3,3,3,3.0,1140.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST188,217 days,544,175.09,2,4,4,3.0,1750.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST189,393 days,28,7.66,1,1,1,1.0,76.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST190,97 days,114,23.04,4,2,2,3.0,230.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST191,90 days,646,294.11,4,4,5,4.2,2941.1,Loyal,Upsell to premium plan + referral program,Basic
+CUST192,257 days,432,178.09,1,3,5,2.4,1780.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST193,87 days,741,200.22,5,5,5,5.0,2002.2,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST194,78 days,540,123.92,5,4,4,4.5,1239.2,Loyal,Upsell to premium plan + referral program,Basic
+CUST195,240 days,287,74.0,1,3,3,2.0,740.0,At Risk,Win-back campaign + survey for feedback,Standard
+CUST196,245 days,154,46.78,1,2,2,1.5,467.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST197,84 days,470,120.28,5,4,4,4.5,1202.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST198,90 days,63,14.88,4,1,1,2.5,148.8,At Risk,Win-back campaign + survey for feedback,Premium
+CUST199,177 days,25,7.32,2,1,1,1.5,73.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST200,76 days,46,14.39,5,1,1,3.0,143.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST201,88 days,300,106.87,4,3,3,3.5,1068.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST202,243 days,70,23.81,1,1,2,1.2,238.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST203,100 days,564,126.29,3,4,4,3.5,1262.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST204,222 days,884,513.3,2,5,5,3.5,5133.0,Average,Re-engagement emails + limited-time discounts,Premium
+CUST205,83 days,306,67.94,5,3,3,4.0,679.4,Loyal,Upsell to premium plan + referral program,Standard
+CUST206,328 days,96,22.91,1,2,2,1.5,229.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST207,102 days,442,123.3,3,4,4,3.5,1233.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST208,105 days,190,33.69,3,2,2,2.5,336.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST209,87 days,96,30.4,5,2,2,3.5,304.0,Average,Re-engagement emails + limited-time discounts,Premium
+CUST210,76 days,224,83.94,5,2,3,3.7,839.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST211,206 days,52,11.92,2,1,1,1.5,119.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST212,298 days,615,163.44,1,4,4,2.5,1634.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST213,105 days,882,211.52,3,5,5,4.0,2115.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST214,94 days,945,237.56,4,5,5,4.5,2375.6,Loyal,Upsell to premium plan + referral program,Premium
+CUST215,176 days,846,194.83,2,5,5,3.5,1948.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST216,359 days,370,102.36,1,3,3,2.0,1023.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST217,86 days,240,78.77,5,2,3,3.7,787.7,Average,Re-engagement emails + limited-time discounts,Premium
+CUST218,92 days,672,147.89,4,5,4,4.3,1478.9,Loyal,Upsell to premium plan + referral program,Basic
+CUST219,76 days,351,82.19,5,3,3,4.0,821.9,Loyal,Upsell to premium plan + referral program,Basic
+CUST220,197 days,765,163.01,2,5,4,3.3,1630.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST221,101 days,609,155.05,3,4,4,3.5,1550.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST222,250 days,92,22.77,1,2,2,1.5,227.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST223,96 days,92,32.84,4,2,2,3.0,328.4,Average,Re-engagement emails + limited-time discounts,Premium
+CUST224,205 days,92,23.78,2,2,2,2.0,237.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST225,98 days,520,99.31,3,4,3,3.3,993.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST226,99 days,1311,307.28,3,5,5,4.0,3072.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST227,81 days,940,232.43,5,5,5,5.0,2324.3,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST228,88 days,53,11.08,4,1,1,2.5,110.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST229,81 days,372,127.24,5,3,4,4.2,1272.4,Loyal,Upsell to premium plan + referral program,Standard
+CUST230,80 days,420,148.27,5,3,4,4.2,1482.7,Loyal,Upsell to premium plan + referral program,Premium
+CUST231,88 days,240,59.21,4,2,2,3.0,592.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST232,94 days,90,32.78,4,2,2,3.0,327.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST233,219 days,240,68.8,2,2,3,2.2,688.0,At Risk,Win-back campaign + survey for feedback,Premium
+CUST234,237 days,850,190.04,1,5,5,3.0,1900.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST235,325 days,39,11.37,1,1,1,1.0,113.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST236,94 days,720,203.56,4,5,5,4.5,2035.6,Loyal,Upsell to premium plan + referral program,Premium
+CUST237,395 days,258,68.04,1,3,3,2.0,680.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST238,99 days,336,86.13,3,3,3,3.0,861.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST239,92 days,1104,368.77,4,5,5,4.5,3687.7,Loyal,Upsell to premium plan + referral program,Premium
+CUST240,96 days,770,256.43,4,5,5,4.5,2564.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST241,94 days,210,64.27,4,2,2,3.0,642.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST242,231 days,406,109.43,2,3,3,2.5,1094.3,At Risk,Win-back campaign + survey for feedback,Premium
+CUST243,228 days,120,29.39,2,2,2,2.0,293.9,At Risk,Win-back campaign + survey for feedback,Premium
+CUST244,248 days,39,11.9,1,1,1,1.0,119.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST245,82 days,22,6.42,5,1,1,3.0,64.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST246,103 days,658,158.42,3,4,4,3.5,1584.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST247,102 days,550,118.79,3,4,3,3.3,1187.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST248,92 days,48,10.78,4,1,1,2.5,107.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST249,81 days,238,79.69,5,2,3,3.7,796.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST250,94 days,1134,210.81,4,5,5,4.5,2108.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST251,99 days,200,55.98,3,2,2,2.5,559.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST252,81 days,116,29.48,5,2,2,3.5,294.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST253,193 days,368,93.69,2,3,3,2.5,936.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST254,294 days,528,164.25,1,4,4,2.5,1642.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST255,266 days,40,7.55,1,1,1,1.0,75.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST256,233 days,407,79.29,2,3,3,2.5,792.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST257,97 days,846,212.93,4,5,5,4.5,2129.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST258,255 days,30,10.96,1,1,1,1.0,109.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST259,214 days,429,91.63,2,3,3,2.5,916.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST260,86 days,423,155.97,5,3,4,4.2,1559.7,Loyal,Upsell to premium plan + referral program,Premium
+CUST261,79 days,465,178.04,5,4,5,4.7,1780.4,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST262,314 days,406,110.77,1,3,3,2.0,1107.7,At Risk,Win-back campaign + survey for feedback,Premium
+CUST263,88 days,572,136.42,4,4,4,4.0,1364.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST264,95 days,62,21.51,4,1,1,2.5,215.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST265,101 days,817,296.99,3,5,5,4.0,2969.9,Loyal,Upsell to premium plan + referral program,Premium
+CUST266,92 days,210,73.65,4,2,3,3.2,736.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST267,84 days,240,52.41,5,2,2,3.5,524.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST268,79 days,40,7.49,5,1,1,3.0,74.9,Average,Re-engagement emails + limited-time discounts,Basic
+CUST269,98 days,546,140.62,3,4,4,3.5,1406.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST270,103 days,300,108.57,3,3,3,3.0,1085.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST271,110 days,39,6.53,2,1,1,1.5,65.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST272,89 days,408,81.27,4,3,3,3.5,812.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST273,83 days,138,38.26,5,2,2,3.5,382.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST274,99 days,690,228.82,3,5,5,4.0,2288.2,Loyal,Upsell to premium plan + referral program,Premium
+CUST275,223 days,26,7.37,2,1,1,1.5,73.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST276,85 days,816,189.38,5,5,5,5.0,1893.8,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST277,93 days,576,135.89,4,4,4,4.0,1358.9,Loyal,Upsell to premium plan + referral program,Premium
+CUST278,304 days,705,163.65,1,5,4,2.8,1636.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST279,197 days,32,6.95,2,1,1,1.5,69.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST280,87 days,312,94.49,5,3,3,4.0,944.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST281,177 days,53,11.57,2,1,1,1.5,115.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST282,81 days,814,400.94,5,5,5,5.0,4009.4,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST283,87 days,819,238.67,5,5,5,5.0,2386.7,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST284,102 days,318,102.61,3,3,3,3.0,1026.1,Average,Re-engagement emails + limited-time discounts,Premium
+CUST285,84 days,688,158.59,5,5,4,4.8,1585.9,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST286,181 days,784,172.42,2,5,4,3.3,1724.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST287,99 days,663,154.51,3,4,4,3.5,1545.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST288,87 days,360,87.91,5,3,3,4.0,879.1,Loyal,Upsell to premium plan + referral program,Basic
+CUST289,196 days,90,32.25,2,2,2,2.0,322.5,At Risk,Win-back campaign + survey for feedback,Premium
+CUST290,144 days,40,7.03,2,1,1,1.5,70.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST291,89 days,630,223.76,4,4,5,4.2,2237.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST292,190 days,1044,451.68,2,5,5,3.5,4516.8,Average,Re-engagement emails + limited-time discounts,Premium
+CUST293,77 days,540,169.97,5,4,4,4.5,1699.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST294,232 days,159,32.43,2,2,2,2.0,324.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST295,189 days,235,57.3,2,2,2,2.0,573.0,At Risk,Win-back campaign + survey for feedback,Standard
+CUST296,374 days,336,137.16,1,3,4,2.2,1371.6,At Risk,Win-back campaign + survey for feedback,Premium
+CUST297,85 days,1029,495.29,5,5,5,5.0,4952.9,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST298,84 days,1449,332.54,5,5,5,5.0,3325.4,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST299,101 days,540,123.51,3,4,4,3.5,1235.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST300,95 days,510,171.03,4,4,4,4.0,1710.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST301,83 days,116,30.38,5,2,2,3.5,303.8,Average,Re-engagement emails + limited-time discounts,Premium
+CUST302,196 days,40,7.19,2,1,1,1.5,71.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST303,78 days,1113,248.21,5,5,5,5.0,2482.1,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST304,99 days,294,96.26,3,3,3,3.0,962.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST305,105 days,51,11.89,3,1,1,2.0,118.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST306,101 days,66,24.15,3,1,2,2.2,241.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST307,192 days,648,121.49,2,4,4,3.0,1214.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST308,91 days,29,6.62,4,1,1,2.5,66.2,At Risk,Win-back campaign + survey for feedback,Basic
+CUST309,92 days,84,30.48,4,2,2,3.0,304.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST310,90 days,351,99.2,4,3,3,3.5,992.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST311,78 days,510,171.8,5,4,4,4.5,1718.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST312,361 days,210,59.54,1,2,2,1.5,595.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST313,96 days,250,74.53,4,3,3,3.5,745.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST314,87 days,663,205.36,5,4,5,4.7,2053.6,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST315,101 days,210,51.43,3,2,2,2.5,514.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST316,90 days,320,127.99,4,3,4,3.7,1279.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST317,418 days,217,82.29,1,2,3,1.7,822.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST318,98 days,630,216.84,3,4,5,3.7,2168.4,Average,Re-engagement emails + limited-time discounts,Premium
+CUST319,215 days,608,179.51,2,4,5,3.2,1795.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST320,340 days,168,46.75,1,2,2,1.5,467.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST321,87 days,377,97.46,5,3,3,4.0,974.6,Loyal,Upsell to premium plan + referral program,Basic
+CUST322,144 days,39,10.51,2,1,1,1.5,105.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST323,91 days,279,139.56,4,3,4,3.7,1395.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST324,98 days,282,68.24,3,3,3,3.0,682.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST325,91 days,330,62.27,4,3,2,3.3,622.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST326,166 days,1000,199.35,2,5,5,3.5,1993.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST327,345 days,50,10.79,1,1,1,1.0,107.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST328,77 days,420,140.6,5,3,4,4.2,1406.0,Loyal,Upsell to premium plan + referral program,Basic
+CUST329,195 days,352,128.36,2,3,4,2.7,1283.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST330,78 days,646,221.35,5,4,5,4.7,2213.5,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST331,101 days,704,174.38,3,5,4,3.8,1743.8,Average,Re-engagement emails + limited-time discounts,Premium
+CUST332,96 days,715,145.91,4,5,4,4.3,1459.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST333,340 days,168,48.97,1,2,2,1.5,489.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST334,214 days,37,11.71,2,1,1,1.5,117.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST335,95 days,782,184.03,4,5,5,4.5,1840.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST336,97 days,168,40.06,4,2,2,3.0,400.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST337,96 days,35,10.47,4,1,1,2.5,104.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST338,105 days,690,166.04,3,5,4,3.8,1660.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST339,104 days,148,43.51,3,2,2,2.5,435.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST340,372 days,650,141.16,1,4,4,2.5,1411.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST341,81 days,828,232.1,5,5,5,5.0,2321.0,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST342,104 days,756,240.88,3,5,5,4.0,2408.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST343,90 days,396,93.25,4,3,3,3.5,932.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST344,92 days,26,6.57,4,1,1,2.5,65.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST345,244 days,1037,464.59,1,5,5,3.0,4645.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST346,89 days,270,66.09,4,3,2,3.3,660.9,Average,Re-engagement emails + limited-time discounts,Basic
+CUST347,190 days,532,135.04,2,4,4,3.0,1350.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST348,96 days,968,235.56,4,5,5,4.5,2355.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST349,99 days,620,217.55,3,4,5,3.7,2175.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST350,100 days,252,77.5,3,3,3,3.0,775.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST351,101 days,306,59.18,3,3,2,2.8,591.8,At Risk,Win-back campaign + survey for feedback,Basic
+CUST352,80 days,940,204.67,5,5,5,5.0,2046.7,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST353,326 days,51,11.83,1,1,1,1.0,118.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST354,209 days,57,15.78,2,1,1,1.5,157.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST355,212 days,441,141.38,2,3,4,2.7,1413.8,At Risk,Win-back campaign + survey for feedback,Premium
+CUST356,98 days,1122,219.32,3,5,5,4.0,2193.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST357,79 days,799,186.75,5,5,5,5.0,1867.5,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST358,183 days,300,111.09,2,3,3,2.5,1110.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST359,96 days,52,14.14,4,1,1,2.5,141.4,At Risk,Win-back campaign + survey for feedback,Basic
+CUST360,103 days,448,160.23,3,4,4,3.5,1602.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST361,78 days,1032,246.75,5,5,5,5.0,2467.5,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST362,177 days,51,15.2,2,1,1,1.5,152.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST363,78 days,429,96.52,5,3,3,4.0,965.2,Loyal,Upsell to premium plan + referral program,Basic
+CUST364,83 days,693,251.43,5,5,5,5.0,2514.3,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST365,175 days,588,142.66,2,4,4,3.0,1426.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST366,100 days,720,175.76,3,5,4,3.8,1757.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST367,95 days,560,105.45,4,4,3,3.8,1054.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST368,92 days,488,116.66,4,4,3,3.8,1166.6,Average,Re-engagement emails + limited-time discounts,Premium
+CUST369,83 days,238,74.25,5,2,3,3.7,742.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST370,240 days,686,142.9,1,5,4,2.8,1429.0,At Risk,Win-back campaign + survey for feedback,Standard
+CUST371,104 days,450,131.1,3,4,4,3.5,1311.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST372,80 days,735,232.35,5,5,5,5.0,2323.5,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST373,378 days,564,122.49,1,4,4,2.5,1224.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST374,437 days,25,6.3,1,1,1,1.0,63.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST375,311 days,104,29.68,1,2,2,1.5,296.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST376,80 days,1197,284.13,5,5,5,5.0,2841.3,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST377,99 days,525,107.08,3,4,3,3.3,1070.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST378,358 days,196,47.33,1,2,2,1.5,473.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST379,234 days,770,156.49,2,5,4,3.3,1564.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST380,84 days,882,222.28,5,5,5,5.0,2222.8,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST381,102 days,248,51.3,3,3,2,2.8,513.0,At Risk,Win-back campaign + survey for feedback,Basic
+CUST382,91 days,432,93.43,4,3,3,3.5,934.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST383,166 days,20,6.55,2,1,1,1.5,65.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST384,83 days,378,181.29,5,3,5,4.4,1812.9,Loyal,Upsell to premium plan + referral program,Basic
+CUST385,103 days,23,7.21,3,1,1,2.0,72.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST386,94 days,660,167.58,4,4,4,4.0,1675.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST387,195 days,342,85.87,2,3,3,2.5,858.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST388,267 days,40,7.02,1,1,1,1.0,70.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST389,103 days,715,145.89,3,5,4,3.8,1458.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST390,116 days,44,17.47,2,1,1,1.5,174.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST391,115 days,36,7.12,2,1,1,1.5,71.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST392,102 days,608,207.61,3,4,5,3.7,2076.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST393,83 days,342,63.83,5,3,2,3.8,638.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST394,104 days,90,35.79,3,2,2,2.5,357.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST395,219 days,416,93.69,2,3,3,2.5,936.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST396,103 days,540,190.82,3,4,5,3.7,1908.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST397,238 days,52,10.41,1,1,1,1.0,104.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST398,223 days,490,104.68,2,4,3,2.8,1046.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST399,96 days,56,27.55,4,1,2,2.7,275.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST400,123 days,52,11.53,2,1,1,1.5,115.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST401,77 days,312,90.93,5,3,3,4.0,909.3,Loyal,Upsell to premium plan + referral program,Basic
+CUST402,98 days,432,120.48,3,3,4,3.2,1204.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST403,196 days,704,373.4,2,5,5,3.5,3734.0,Average,Re-engagement emails + limited-time discounts,Premium
+CUST404,217 days,845,220.59,2,5,5,3.5,2205.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST405,100 days,990,336.97,3,5,5,4.0,3369.7,Loyal,Upsell to premium plan + referral program,Premium
+CUST406,332 days,184,45.4,1,2,2,1.5,454.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST407,305 days,51,10.83,1,1,1,1.0,108.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST408,97 days,648,135.61,4,4,4,4.0,1356.1,Loyal,Upsell to premium plan + referral program,Basic
+CUST409,286 days,42,11.75,1,1,1,1.0,117.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST410,90 days,410,110.46,4,3,3,3.5,1104.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST411,76 days,66,22.82,5,1,2,3.2,228.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST412,76 days,37,11.83,5,1,1,3.0,118.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST413,438 days,264,76.82,1,3,3,2.0,768.2,At Risk,Win-back campaign + survey for feedback,Basic
+CUST414,207 days,544,421.99,2,4,5,3.2,4219.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST415,96 days,832,268.82,4,5,5,4.5,2688.2,Loyal,Upsell to premium plan + referral program,Premium
+CUST416,90 days,300,65.99,4,3,2,3.3,659.9,Average,Re-engagement emails + limited-time discounts,Basic
+CUST417,201 days,37,10.74,2,1,1,1.5,107.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST418,81 days,188,68.64,5,2,3,3.7,686.4,Average,Re-engagement emails + limited-time discounts,Premium
+CUST419,264 days,30,11.48,1,1,1,1.0,114.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST420,264 days,294,75.45,1,3,3,2.0,754.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST421,105 days,384,105.46,3,3,3,3.0,1054.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST422,431 days,200,42.69,1,2,2,1.5,426.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST423,92 days,282,91.8,4,3,3,3.5,918.0,Average,Re-engagement emails + limited-time discounts,Premium
+CUST424,273 days,736,164.45,1,5,4,2.8,1644.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST425,255 days,624,138.3,1,4,4,2.5,1383.0,At Risk,Win-back campaign + survey for feedback,Standard
+CUST426,178 days,320,128.0,2,3,4,2.7,1280.0,At Risk,Win-back campaign + survey for feedback,Basic
+CUST427,92 days,392,96.96,4,3,3,3.5,969.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST428,378 days,41,15.62,1,1,1,1.0,156.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST429,91 days,288,72.3,4,3,3,3.5,723.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST430,89 days,392,86.0,4,3,3,3.5,860.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST431,88 days,648,115.25,4,4,3,3.8,1152.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST432,81 days,36,10.09,5,1,1,3.0,100.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST433,78 days,207,48.84,5,2,2,3.5,488.4,Average,Re-engagement emails + limited-time discounts,Premium
+CUST434,119 days,55,11.21,2,1,1,1.5,112.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST435,115 days,22,6.88,2,1,1,1.5,68.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST436,97 days,960,216.8,4,5,5,4.5,2168.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST437,192 days,624,130.12,2,4,4,3.0,1301.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST438,88 days,583,121.29,4,4,4,4.0,1212.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST439,149 days,48,16.01,2,1,1,1.5,160.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST440,419 days,39,10.22,1,1,1,1.0,102.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST441,103 days,748,390.59,3,5,5,4.0,3905.9,Loyal,Upsell to premium plan + referral program,Premium
+CUST442,171 days,43,10.16,2,1,1,1.5,101.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST443,80 days,370,64.32,5,3,2,3.8,643.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST444,97 days,495,101.08,4,4,3,3.8,1010.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST445,314 days,238,45.96,1,2,2,1.5,459.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST446,92 days,975,227.93,4,5,5,4.5,2279.3,Loyal,Upsell to premium plan + referral program,Premium
+CUST447,98 days,30,10.27,3,1,1,2.0,102.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST448,100 days,432,95.97,3,3,3,3.0,959.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST449,418 days,140,47.08,1,2,2,1.5,470.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST450,101 days,374,72.75,3,3,3,3.0,727.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST451,90 days,1080,212.22,4,5,5,4.5,2122.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST452,170 days,455,134.58,2,4,4,3.0,1345.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST453,210 days,37,6.98,2,1,1,1.5,69.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST454,81 days,60,19.87,5,1,1,3.0,198.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST455,102 days,330,108.44,3,3,3,3.0,1084.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST456,93 days,46,17.09,4,1,1,2.5,170.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST457,93 days,630,166.13,4,4,4,4.0,1661.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST458,79 days,594,143.46,5,4,4,4.5,1434.6,Loyal,Upsell to premium plan + referral program,Basic
+CUST459,182 days,670,169.63,2,5,4,3.3,1696.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST460,179 days,216,44.39,2,2,2,2.0,443.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST461,243 days,270,64.69,1,3,2,1.8,646.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST462,88 days,396,75.33,4,3,3,3.5,753.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST463,391 days,162,30.79,1,2,2,1.5,307.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST464,87 days,836,229.92,5,5,5,5.0,2299.2,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST465,375 days,41,10.47,1,1,1,1.0,104.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST466,180 days,722,134.3,2,5,4,3.3,1343.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST467,94 days,483,144.19,4,4,4,4.0,1441.9,Loyal,Upsell to premium plan + referral program,Basic
+CUST468,228 days,50,11.97,2,1,1,1.5,119.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST469,86 days,122,62.63,5,2,2,3.5,626.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST470,155 days,64,17.5,2,1,1,1.5,175.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST471,78 days,30,6.61,5,1,1,3.0,66.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST472,94 days,66,23.18,4,1,2,2.7,231.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST473,404 days,318,92.85,1,3,3,2.0,928.5,At Risk,Win-back campaign + survey for feedback,Premium
+CUST474,79 days,86,20.41,5,2,1,3.3,204.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST475,309 days,45,17.13,1,1,1,1.0,171.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST476,87 days,720,134.46,5,5,4,4.8,1344.6,VIP,Offer exclusive content + loyalty rewards,Basic
+CUST477,101 days,41,16.5,3,1,1,2.0,165.0,At Risk,Win-back campaign + survey for feedback,Premium
+CUST478,236 days,518,155.9,2,4,4,3.0,1559.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST479,86 days,301,111.3,5,3,3,4.0,1113.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST480,93 days,117,32.94,4,2,2,3.0,329.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST481,76 days,612,195.51,5,4,5,4.7,1955.1,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST482,78 days,645,220.08,5,4,5,4.7,2200.8,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST483,79 days,735,151.73,5,5,4,4.8,1517.3,VIP,Offer exclusive content + loyalty rewards,Basic
+CUST484,178 days,602,166.04,2,4,4,3.0,1660.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST485,314 days,495,110.2,1,4,3,2.3,1102.0,At Risk,Win-back campaign + survey for feedback,Standard
+CUST486,285 days,54,10.2,1,1,1,1.0,102.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST487,202 days,48,16.68,2,1,1,1.5,166.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST488,244 days,276,82.83,1,3,3,2.0,828.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST489,233 days,742,150.89,2,5,4,3.3,1508.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST490,83 days,805,234.42,5,5,5,5.0,2344.2,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST491,386 days,20,7.0,1,1,1,1.0,70.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST492,210 days,180,50.85,2,2,2,2.0,508.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST493,101 days,360,125.23,3,3,4,3.2,1252.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST494,103 days,384,92.56,3,3,3,3.0,925.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST495,88 days,1034,334.77,4,5,5,4.5,3347.7,Loyal,Upsell to premium plan + referral program,Premium
+CUST496,77 days,1080,218.96,5,5,5,5.0,2189.6,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST497,287 days,96,36.21,1,2,2,1.5,362.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST498,78 days,720,298.56,5,5,5,5.0,2985.6,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST499,97 days,510,199.59,4,4,5,4.2,1995.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST500,150 days,46,15.72,2,1,1,1.5,157.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST501,90 days,1050,243.15,4,5,5,4.5,2431.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST502,86 days,624,174.25,5,4,4,4.5,1742.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST503,84 days,400,313.11,5,3,5,4.4,3131.1,Loyal,Upsell to premium plan + referral program,Basic
+CUST504,210 days,220,60.16,2,2,2,2.0,601.6,At Risk,Win-back campaign + survey for feedback,Premium
+CUST505,264 days,495,102.79,1,4,3,2.3,1027.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST506,82 days,297,105.75,5,3,3,4.0,1057.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST507,90 days,52,10.65,4,1,1,2.5,106.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST508,82 days,1092,237.93,5,5,5,5.0,2379.3,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST509,140 days,41,11.45,2,1,1,1.5,114.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST510,245 days,108,22.36,1,2,2,1.5,223.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST511,286 days,656,170.82,1,4,4,2.5,1708.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST512,85 days,792,156.15,5,5,4,4.8,1561.5,VIP,Offer exclusive content + loyalty rewards,Basic
+CUST513,402 days,120,20.31,1,2,1,1.3,203.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST514,234 days,340,64.08,2,3,2,2.3,640.8,At Risk,Win-back campaign + survey for feedback,Basic
+CUST515,96 days,390,120.73,4,3,4,3.7,1207.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST516,305 days,22,6.47,1,1,1,1.0,64.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST517,86 days,416,80.4,5,3,3,4.0,804.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST518,382 days,294,70.93,1,3,3,2.0,709.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST519,88 days,702,120.83,4,5,4,4.3,1208.3,Loyal,Upsell to premium plan + referral program,Basic
+CUST520,188 days,615,169.81,2,4,4,3.0,1698.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST521,80 days,760,293.42,5,5,5,5.0,2934.2,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST522,105 days,40,13.68,3,1,1,2.0,136.8,At Risk,Win-back campaign + survey for feedback,Basic
+CUST523,81 days,468,125.61,5,4,4,4.5,1256.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST524,99 days,47,10.65,3,1,1,2.0,106.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST525,101 days,528,129.52,3,4,4,3.5,1295.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST526,104 days,310,114.74,3,3,3,3.0,1147.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST527,89 days,966,231.32,4,5,5,4.5,2313.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST528,87 days,296,95.72,5,3,3,4.0,957.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST529,79 days,84,19.05,5,2,1,3.3,190.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST530,188 days,50,11.0,2,1,1,1.5,110.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST531,81 days,882,201.15,5,5,5,5.0,2011.5,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST532,288 days,240,136.49,1,2,4,1.9,1364.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST533,154 days,35,10.0,2,1,1,1.5,100.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST534,152 days,63,16.23,2,1,1,1.5,162.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST535,101 days,688,188.28,3,5,5,4.0,1882.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST536,143 days,30,10.42,2,1,1,1.5,104.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST537,80 days,920,343.87,5,5,5,5.0,3438.7,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST538,85 days,901,168.86,5,5,4,4.8,1688.6,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST539,95 days,76,23.0,4,1,2,2.7,230.0,At Risk,Win-back campaign + survey for feedback,Standard
+CUST540,145 days,40,11.94,2,1,1,1.5,119.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST541,99 days,1449,379.33,3,5,5,4.0,3793.3,Loyal,Upsell to premium plan + referral program,Premium
+CUST542,102 days,416,86.85,3,3,3,3.0,868.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST543,323 days,45,9.99,1,1,1,1.0,99.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST544,362 days,480,206.75,1,4,5,2.7,2067.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST545,86 days,902,349.69,5,5,5,5.0,3496.9,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST546,86 days,1012,228.96,5,5,5,5.0,2289.6,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST547,401 days,154,50.79,1,2,2,1.5,507.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST548,79 days,387,143.39,5,3,4,4.2,1433.9,Loyal,Upsell to premium plan + referral program,Premium
+CUST549,79 days,98,20.33,5,2,1,3.3,203.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST550,92 days,468,118.63,4,4,3,3.8,1186.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST551,297 days,246,60.2,1,3,2,1.8,602.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST552,248 days,165,55.77,1,2,2,1.5,557.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST553,389 days,539,180.18,1,4,5,2.7,1801.8,At Risk,Win-back campaign + survey for feedback,Premium
+CUST554,157 days,25,7.0,2,1,1,1.5,70.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST555,99 days,704,187.05,3,5,5,4.0,1870.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST556,81 days,51,11.78,5,1,1,3.0,117.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST557,78 days,363,78.67,5,3,3,4.0,786.7,Loyal,Upsell to premium plan + referral program,Basic
+CUST558,97 days,42,14.43,4,1,1,2.5,144.3,At Risk,Win-back campaign + survey for feedback,Premium
+CUST559,76 days,138,34.26,5,2,2,3.5,342.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST560,162 days,30,6.88,2,1,1,1.5,68.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST561,176 days,468,133.61,2,4,4,3.0,1336.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST562,259 days,780,197.6,1,5,5,3.0,1976.0,Average,Re-engagement emails + limited-time discounts,Premium
+CUST563,84 days,700,149.25,5,5,4,4.8,1492.5,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST564,225 days,522,136.32,2,4,4,3.0,1363.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST565,241 days,116,25.91,1,2,2,1.5,259.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST566,98 days,132,43.38,3,2,2,2.5,433.8,At Risk,Win-back campaign + survey for feedback,Basic
+CUST567,179 days,901,168.31,2,5,4,3.3,1683.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST568,76 days,330,71.54,5,3,3,4.0,715.4,Loyal,Upsell to premium plan + referral program,Standard
+CUST569,93 days,748,141.86,4,5,4,4.3,1418.6,Loyal,Upsell to premium plan + referral program,Basic
+CUST570,92 days,36,6.42,4,1,1,2.5,64.2,At Risk,Win-back campaign + survey for feedback,Basic
+CUST571,102 days,1034,233.7,3,5,5,4.0,2337.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST572,84 days,58,15.59,5,1,1,3.0,155.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST573,238 days,768,165.79,1,5,4,2.8,1657.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST574,279 days,306,97.57,1,3,3,2.0,975.7,At Risk,Win-back campaign + survey for feedback,Premium
+CUST575,239 days,954,195.56,1,5,5,3.0,1955.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST576,138 days,24,6.34,2,1,1,1.5,63.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST577,80 days,819,200.37,5,5,5,5.0,2003.7,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST578,212 days,855,221.77,2,5,5,3.5,2217.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST579,95 days,528,136.88,4,4,4,4.0,1368.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST580,98 days,756,233.93,3,5,5,4.0,2339.3,Loyal,Upsell to premium plan + referral program,Premium
+CUST581,105 days,400,116.27,3,3,3,3.0,1162.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST582,100 days,310,67.26,3,3,3,3.0,672.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST583,103 days,434,141.54,3,3,4,3.2,1415.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST584,77 days,546,93.41,5,4,3,4.3,934.1,Loyal,Upsell to premium plan + referral program,Basic
+CUST585,88 days,588,156.53,4,4,4,4.0,1565.3,Loyal,Upsell to premium plan + referral program,Basic
+CUST586,118 days,23,16.64,2,1,1,1.5,166.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST587,100 days,144,41.89,3,2,2,2.5,418.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST588,85 days,1100,218.07,5,5,5,5.0,2180.7,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST589,89 days,567,136.22,4,4,4,4.0,1362.2,Loyal,Upsell to premium plan + referral program,Basic
+CUST590,223 days,306,63.59,2,3,2,2.3,635.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST591,105 days,546,156.28,3,4,4,3.5,1562.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST592,98 days,216,60.34,3,2,2,2.5,603.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST593,84 days,165,38.05,5,2,2,3.5,380.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST594,100 days,374,117.63,3,3,3,3.0,1176.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST595,89 days,280,60.53,4,3,2,3.3,605.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST596,78 days,616,162.49,5,4,4,4.5,1624.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST597,95 days,88,33.61,4,2,2,3.0,336.1,Average,Re-engagement emails + limited-time discounts,Premium
+CUST598,91 days,736,258.17,4,5,5,4.5,2581.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST599,77 days,1196,259.18,5,5,5,5.0,2591.8,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST600,266 days,390,112.93,1,3,3,2.0,1129.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST601,78 days,442,146.55,5,4,4,4.5,1465.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST602,86 days,434,113.13,5,3,3,4.0,1131.3,Loyal,Upsell to premium plan + referral program,Premium
+CUST603,86 days,1026,333.37,5,5,5,5.0,3333.7,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST604,341 days,376,92.0,1,3,3,2.0,920.0,At Risk,Win-back campaign + survey for feedback,Standard
+CUST605,96 days,216,46.39,4,2,2,3.0,463.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST606,97 days,987,360.8,4,5,5,4.5,3608.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST607,210 days,1050,226.21,2,5,5,3.5,2262.1,Average,Re-engagement emails + limited-time discounts,Premium
+CUST608,82 days,1100,221.65,5,5,5,5.0,2216.5,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST609,98 days,527,186.19,3,4,5,3.7,1861.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST610,92 days,378,98.14,4,3,3,3.5,981.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST611,382 days,62,17.04,1,1,1,1.0,170.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST612,77 days,594,152.05,5,4,4,4.5,1520.5,Loyal,Upsell to premium plan + referral program,Basic
+CUST613,241 days,495,167.19,1,4,4,2.5,1671.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST614,123 days,38,7.03,2,1,1,1.5,70.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST615,93 days,37,6.34,4,1,1,2.5,63.4,At Risk,Win-back campaign + survey for feedback,Basic
+CUST616,97 days,450,101.19,4,4,3,3.8,1011.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST617,102 days,1292,323.74,3,5,5,4.0,3237.4,Loyal,Upsell to premium plan + referral program,Premium
+CUST618,86 days,460,149.76,5,4,4,4.5,1497.6,Loyal,Upsell to premium plan + referral program,Basic
+CUST619,91 days,196,44.79,4,2,2,3.0,447.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST620,274 days,272,56.97,1,3,2,1.8,569.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST621,224 days,148,26.08,2,2,2,2.0,260.8,At Risk,Win-back campaign + survey for feedback,Basic
+CUST622,255 days,867,172.76,1,5,4,2.8,1727.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST623,91 days,820,240.9,4,5,5,4.5,2409.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST624,262 days,280,95.78,1,3,3,2.0,957.8,At Risk,Win-back campaign + survey for feedback,Basic
+CUST625,364 days,72,20.78,1,1,1,1.0,207.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST626,377 days,38,6.53,1,1,1,1.0,65.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST627,91 days,180,68.15,4,2,3,3.2,681.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST628,129 days,70,16.34,2,1,1,1.5,163.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST629,103 days,1260,328.98,3,5,5,4.0,3289.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST630,88 days,684,191.6,4,5,5,4.5,1916.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST631,79 days,744,442.44,5,5,5,5.0,4424.4,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST632,167 days,966,328.35,2,5,5,3.5,3283.5,Average,Re-engagement emails + limited-time discounts,Premium
+CUST633,255 days,266,47.1,1,3,2,1.8,471.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST634,102 days,1260,285.65,3,5,5,4.0,2856.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST635,102 days,1144,344.05,3,5,5,4.0,3440.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST636,102 days,456,142.47,3,4,4,3.5,1424.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST637,90 days,228,45.54,4,2,2,3.0,455.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST638,83 days,440,168.98,5,3,4,4.2,1689.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST639,82 days,90,35.37,5,2,2,3.5,353.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST640,228 days,666,132.9,2,4,4,3.0,1329.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST641,90 days,280,106.29,4,3,3,3.5,1062.9,Average,Re-engagement emails + limited-time discounts,Basic
+CUST642,98 days,170,52.16,3,2,2,2.5,521.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST643,89 days,608,178.55,4,4,5,4.2,1785.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST644,319 days,287,73.46,1,3,3,2.0,734.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST645,177 days,240,85.13,2,2,3,2.2,851.3,At Risk,Win-back campaign + survey for feedback,Premium
+CUST646,178 days,37,6.3,2,1,1,1.5,63.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST647,105 days,780,166.99,3,5,4,3.8,1669.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST648,86 days,480,127.64,5,4,4,4.5,1276.4,Loyal,Upsell to premium plan + referral program,Standard
+CUST649,92 days,540,190.8,4,4,5,4.2,1908.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST650,228 days,304,57.54,2,3,2,2.3,575.4,At Risk,Win-back campaign + survey for feedback,Basic
+CUST651,376 days,610,171.14,1,4,4,2.5,1711.4,At Risk,Win-back campaign + survey for feedback,Premium
+CUST652,201 days,576,147.05,2,4,4,3.0,1470.5,Average,Re-engagement emails + limited-time discounts,Premium
+CUST653,264 days,273,82.36,1,3,3,2.0,823.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST654,234 days,496,167.56,2,4,4,3.0,1675.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST655,101 days,234,63.16,3,2,2,2.5,631.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST656,173 days,49,10.88,2,1,1,1.5,108.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST657,104 days,31,9.92,3,1,1,2.0,99.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST658,90 days,864,200.07,4,5,5,4.5,2000.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST659,87 days,675,247.6,5,5,5,5.0,2476.0,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST660,80 days,663,190.26,5,4,5,4.7,1902.6,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST661,105 days,190,57.55,3,2,2,2.5,575.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST662,98 days,111,33.44,3,2,2,2.5,334.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST663,91 days,30,6.38,4,1,1,2.5,63.8,At Risk,Win-back campaign + survey for feedback,Basic
+CUST664,89 days,304,81.18,4,3,3,3.5,811.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST665,85 days,686,156.83,5,5,4,4.8,1568.3,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST666,82 days,441,94.46,5,3,3,4.0,944.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST667,88 days,380,100.66,4,3,3,3.5,1006.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST668,95 days,777,227.54,4,5,5,4.5,2275.4,Loyal,Upsell to premium plan + referral program,Standard
+CUST669,202 days,176,44.44,2,2,2,2.0,444.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST670,194 days,279,95.52,2,3,3,2.5,955.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST671,399 days,424,91.8,1,3,3,2.0,918.0,At Risk,Win-back campaign + survey for feedback,Standard
+CUST672,212 days,200,82.25,2,2,3,2.2,822.5,At Risk,Win-back campaign + survey for feedback,Premium
+CUST673,89 days,420,101.34,4,3,3,3.5,1013.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST674,217 days,448,117.54,2,4,3,2.8,1175.4,At Risk,Win-back campaign + survey for feedback,Basic
+CUST675,94 days,924,248.97,4,5,5,4.5,2489.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST676,88 days,108,61.34,4,2,2,3.0,613.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST677,186 days,720,127.16,2,5,4,3.3,1271.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST678,80 days,408,239.76,5,3,5,4.4,2397.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST679,192 days,96,34.27,2,2,2,2.0,342.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST680,311 days,150,32.15,1,2,2,1.5,321.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST681,285 days,688,278.49,1,5,5,3.0,2784.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST682,404 days,46,11.69,1,1,1,1.0,116.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST683,100 days,385,113.89,3,3,3,3.0,1138.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST684,81 days,525,99.65,5,4,3,4.3,996.5,Loyal,Upsell to premium plan + referral program,Basic
+CUST685,79 days,324,62.03,5,3,2,3.8,620.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST686,77 days,140,30.96,5,2,2,3.5,309.6,Average,Re-engagement emails + limited-time discounts,Premium
+CUST687,187 days,55,10.94,2,1,1,1.5,109.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST688,181 days,49,10.54,2,1,1,1.5,105.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST689,183 days,32,11.02,2,1,1,1.5,110.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST690,80 days,100,26.09,5,2,2,3.5,260.9,Average,Re-engagement emails + limited-time discounts,Basic
+CUST691,97 days,450,180.6,4,4,5,4.2,1806.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST692,79 days,250,50.64,5,3,2,3.8,506.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST693,105 days,440,138.97,3,3,4,3.2,1389.7,Average,Re-engagement emails + limited-time discounts,Premium
+CUST694,301 days,476,105.95,1,4,3,2.3,1059.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST695,94 days,506,176.78,4,4,4,4.0,1767.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST696,98 days,615,250.64,3,4,5,3.7,2506.4,Average,Re-engagement emails + limited-time discounts,Premium
+CUST697,77 days,116,27.6,5,2,2,3.5,276.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST698,178 days,108,22.55,2,2,2,2.0,225.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST699,108 days,67,15.48,2,1,1,1.5,154.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST700,104 days,216,61.42,3,2,2,2.5,614.2,At Risk,Win-back campaign + survey for feedback,Premium
+CUST701,79 days,245,78.13,5,2,3,3.7,781.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST702,97 days,124,43.94,4,2,2,3.0,439.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST703,95 days,106,22.33,4,2,2,3.0,223.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST704,171 days,53,22.52,2,1,2,1.7,225.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST705,201 days,252,47.63,2,3,2,2.3,476.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST706,84 days,150,50.38,5,2,2,3.5,503.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST707,82 days,180,57.28,5,2,2,3.5,572.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST708,403 days,23,6.65,1,1,1,1.0,66.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST709,81 days,784,342.0,5,5,5,5.0,3420.0,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST710,109 days,45,19.89,2,1,1,1.5,198.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST711,90 days,703,221.88,4,5,5,4.5,2218.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST712,90 days,450,149.65,4,4,4,4.0,1496.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST713,100 days,110,22.68,3,2,2,2.5,226.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST714,95 days,760,133.44,4,5,4,4.3,1334.4,Loyal,Upsell to premium plan + referral program,Basic
+CUST715,265 days,640,188.91,1,4,5,2.7,1889.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST716,79 days,112,31.88,5,2,2,3.5,318.8,Average,Re-engagement emails + limited-time discounts,Premium
+CUST717,93 days,324,104.1,4,3,3,3.5,1041.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST718,93 days,741,209.55,4,5,5,4.5,2095.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST719,80 days,738,193.15,5,5,5,5.0,1931.5,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST720,95 days,192,64.78,4,2,2,3.0,647.8,Average,Re-engagement emails + limited-time discounts,Premium
+CUST721,98 days,130,32.26,3,2,2,2.5,322.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST722,240 days,164,48.33,1,2,2,1.5,483.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST723,80 days,528,129.92,5,4,4,4.5,1299.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST724,97 days,518,149.19,4,4,4,4.0,1491.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST725,324 days,36,7.28,1,1,1,1.0,72.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST726,104 days,340,179.64,3,3,5,3.4,1796.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST727,300 days,330,74.56,1,3,3,2.0,745.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST728,77 days,31,10.89,5,1,1,3.0,108.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST729,268 days,45,11.47,1,1,1,1.0,114.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST730,174 days,504,90.18,2,4,3,2.8,901.8,At Risk,Win-back campaign + survey for feedback,Basic
+CUST731,362 days,504,205.16,1,4,5,2.7,2051.6,At Risk,Win-back campaign + survey for feedback,Premium
+CUST732,351 days,60,21.96,1,1,2,1.2,219.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST733,82 days,858,195.88,5,5,5,5.0,1958.8,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST734,158 days,47,10.21,2,1,1,1.5,102.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST735,85 days,407,74.06,5,3,3,4.0,740.6,Loyal,Upsell to premium plan + referral program,Basic
+CUST736,105 days,276,91.87,3,3,3,3.0,918.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST737,78 days,324,91.27,5,3,3,4.0,912.7,Loyal,Upsell to premium plan + referral program,Premium
+CUST738,100 days,228,41.57,3,2,2,2.5,415.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST739,96 days,342,57.0,4,3,2,3.3,570.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST740,104 days,39,10.76,3,1,1,2.0,107.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST741,94 days,238,78.03,4,2,3,3.2,780.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST742,218 days,48,11.99,2,1,1,1.5,119.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST743,288 days,30,7.01,1,1,1,1.0,70.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST744,77 days,78,22.31,5,1,2,3.2,223.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST745,102 days,480,141.12,3,4,4,3.5,1411.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST746,95 days,546,88.87,4,4,3,3.8,888.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST747,85 days,656,169.33,5,4,4,4.5,1693.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST748,77 days,912,496.64,5,5,5,5.0,4966.4,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST749,77 days,408,91.44,5,3,3,4.0,914.4,Loyal,Upsell to premium plan + referral program,Basic
+CUST750,103 days,82,23.56,3,1,2,2.2,235.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST751,273 days,198,62.36,1,2,2,1.5,623.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST752,91 days,966,211.33,4,5,5,4.5,2113.3,Loyal,Upsell to premium plan + referral program,Premium
+CUST753,91 days,1190,255.58,4,5,5,4.5,2555.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST754,89 days,510,173.41,4,4,4,4.0,1734.1,Loyal,Upsell to premium plan + referral program,Premium
+CUST755,82 days,111,22.45,5,2,2,3.5,224.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST756,96 days,216,44.25,4,2,2,3.0,442.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST757,196 days,240,53.77,2,2,2,2.0,537.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST758,86 days,525,104.94,5,4,3,4.3,1049.4,Loyal,Upsell to premium plan + referral program,Basic
+CUST759,99 days,520,141.85,3,4,4,3.5,1418.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST760,340 days,31,10.45,1,1,1,1.0,104.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST761,375 days,770,224.09,1,5,5,3.0,2240.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST762,250 days,360,130.4,1,3,4,2.2,1304.0,At Risk,Win-back campaign + survey for feedback,Premium
+CUST763,79 days,276,61.08,5,3,2,3.8,610.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST764,158 days,47,11.84,2,1,1,1.5,118.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST765,93 days,216,46.17,4,2,2,3.0,461.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST766,87 days,192,100.68,5,2,3,3.7,1006.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST767,92 days,136,44.11,4,2,2,3.0,441.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST768,76 days,125,34.04,5,2,2,3.5,340.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST769,86 days,210,80.63,5,2,3,3.7,806.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST770,103 days,156,46.46,3,2,2,2.5,464.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST771,321 days,442,150.39,1,4,4,2.5,1503.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST772,137 days,30,11.48,2,1,1,1.5,114.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST773,236 days,364,72.38,2,3,3,2.5,723.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST774,77 days,650,154.72,5,4,4,4.5,1547.2,Loyal,Upsell to premium plan + referral program,Premium
+CUST775,362 days,420,97.27,1,3,3,2.0,972.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST776,99 days,106,21.24,3,2,1,2.3,212.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST777,169 days,371,80.85,2,3,3,2.5,808.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST778,87 days,828,244.14,5,5,5,5.0,2441.4,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST779,184 days,969,252.16,2,5,5,3.5,2521.6,Average,Re-engagement emails + limited-time discounts,Premium
+CUST780,101 days,760,130.13,3,5,4,3.8,1301.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST781,264 days,49,12.04,1,1,1,1.0,120.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST782,210 days,50,10.39,2,1,1,1.5,103.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST783,88 days,784,261.58,4,5,5,4.5,2615.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST784,78 days,748,151.72,5,5,4,4.8,1517.2,VIP,Offer exclusive content + loyalty rewards,Basic
+CUST785,268 days,231,70.33,1,2,3,1.7,703.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST786,78 days,630,153.49,5,4,4,4.5,1534.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST787,283 days,34,7.27,1,1,1,1.0,72.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST788,92 days,792,198.34,4,5,5,4.5,1983.4,Loyal,Upsell to premium plan + referral program,Standard
+CUST789,97 days,164,47.23,4,2,2,3.0,472.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST790,77 days,296,84.21,5,3,3,4.0,842.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST791,92 days,470,146.67,4,4,4,4.0,1466.7,Loyal,Upsell to premium plan + referral program,Premium
+CUST792,181 days,423,107.55,2,3,3,2.5,1075.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST793,77 days,210,64.33,5,2,2,3.5,643.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST794,103 days,68,22.32,3,1,2,2.2,223.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST795,97 days,294,103.58,4,3,3,3.5,1035.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST796,105 days,186,40.47,3,2,2,2.5,404.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST797,340 days,275,57.33,1,3,2,1.8,573.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST798,185 days,33,10.19,2,1,1,1.5,101.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST799,104 days,352,73.68,3,3,3,3.0,736.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST800,266 days,322,71.46,1,3,3,2.0,714.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST801,128 days,45,11.67,2,1,1,1.5,116.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST802,83 days,224,52.82,5,2,2,3.5,528.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST803,172 days,55,11.47,2,1,1,1.5,114.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST804,84 days,40,15.22,5,1,1,3.0,152.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST805,97 days,1242,369.81,4,5,5,4.5,3698.1,Loyal,Upsell to premium plan + referral program,Premium
+CUST806,298 days,51,16.12,1,1,1,1.0,161.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST807,90 days,646,207.18,4,4,5,4.2,2071.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST808,258 days,37,6.75,1,1,1,1.0,67.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST809,278 days,490,109.36,1,4,3,2.3,1093.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST810,100 days,697,277.42,3,5,5,4.0,2774.2,Loyal,Upsell to premium plan + referral program,Premium
+CUST811,363 days,165,60.29,1,2,2,1.5,602.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST812,102 days,374,83.62,3,3,3,3.0,836.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST813,84 days,350,273.01,5,3,5,4.4,2730.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST814,245 days,183,51.7,1,2,2,1.5,517.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST815,418 days,451,120.11,1,4,4,2.5,1201.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST816,101 days,893,215.39,3,5,5,4.0,2153.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST817,100 days,1078,260.88,3,5,5,4.0,2608.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST818,177 days,33,10.75,2,1,1,1.5,107.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST819,205 days,260,99.26,2,3,3,2.5,992.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST820,238 days,748,183.68,1,5,5,3.0,1836.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST821,87 days,148,28.53,5,2,2,3.5,285.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST822,101 days,43,11.45,3,1,1,2.0,114.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST823,84 days,396,137.16,5,3,4,4.2,1371.6,Loyal,Upsell to premium plan + referral program,Basic
+CUST824,266 days,352,83.43,1,3,3,2.0,834.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST825,100 days,456,139.35,3,4,4,3.5,1393.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST826,77 days,212,44.14,5,2,2,3.5,441.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST827,432 days,357,73.37,1,3,3,2.0,733.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST828,95 days,110,36.88,4,2,2,3.0,368.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST829,214 days,26,7.06,2,1,1,1.5,70.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST830,197 days,25,7.22,2,1,1,1.5,72.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST831,380 days,585,138.81,1,4,4,2.5,1388.1,At Risk,Win-back campaign + survey for feedback,Premium
+CUST832,79 days,816,175.18,5,5,4,4.8,1751.8,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST833,99 days,360,134.98,3,3,4,3.2,1349.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST834,192 days,190,34.29,2,2,2,2.0,342.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST835,386 days,396,113.6,1,3,3,2.0,1136.0,At Risk,Win-back campaign + survey for feedback,Standard
+CUST836,196 days,258,104.8,2,3,3,2.5,1048.0,At Risk,Win-back campaign + survey for feedback,Premium
+CUST837,100 days,969,304.51,3,5,5,4.0,3045.1,Loyal,Upsell to premium plan + referral program,Premium
+CUST838,243 days,245,57.52,1,2,2,1.5,575.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST839,231 days,148,27.46,2,2,2,2.0,274.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST840,194 days,196,47.51,2,2,2,2.0,475.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST841,180 days,152,27.44,2,2,2,2.0,274.4,At Risk,Win-back campaign + survey for feedback,Basic
+CUST842,268 days,276,82.36,1,3,3,2.0,823.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST843,193 days,160,56.41,2,2,2,2.0,564.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST844,95 days,140,35.25,4,2,2,3.0,352.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST845,104 days,924,230.66,3,5,5,4.0,2306.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST846,82 days,549,133.4,5,4,4,4.5,1334.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST847,99 days,444,131.78,3,4,4,3.5,1317.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST848,96 days,1134,313.57,4,5,5,4.5,3135.7,Loyal,Upsell to premium plan + referral program,Premium
+CUST849,85 days,660,152.52,5,4,4,4.5,1525.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST850,89 days,111,22.78,4,2,2,3.0,227.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST851,89 days,792,246.85,4,5,5,4.5,2468.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST852,357 days,222,43.28,1,2,2,1.5,432.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST853,312 days,45,10.77,1,1,1,1.0,107.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST854,89 days,93,35.67,4,2,2,3.0,356.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST855,418 days,344,131.45,1,3,4,2.2,1314.5,At Risk,Win-back campaign + survey for feedback,Premium
+CUST856,101 days,546,103.13,3,4,3,3.3,1031.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST857,87 days,455,88.48,5,4,3,4.3,884.8,Loyal,Upsell to premium plan + referral program,Basic
+CUST858,97 days,882,366.68,4,5,5,4.5,3666.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST859,99 days,378,133.88,3,3,4,3.2,1338.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST860,204 days,32,11.77,2,1,1,1.5,117.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST861,210 days,165,30.81,2,2,2,2.0,308.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST862,79 days,384,91.55,5,3,3,4.0,915.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST863,97 days,1156,260.18,4,5,5,4.5,2601.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST864,89 days,44,15.26,4,1,1,2.5,152.6,At Risk,Win-back campaign + survey for feedback,Premium
+CUST865,91 days,273,97.33,4,3,3,3.5,973.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST866,104 days,986,246.38,3,5,5,4.0,2463.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST867,79 days,1113,409.84,5,5,5,5.0,4098.4,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST868,316 days,49,10.49,1,1,1,1.0,104.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST869,352 days,210,65.7,1,2,2,1.5,657.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST870,76 days,93,31.2,5,2,2,3.5,312.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST871,429 days,488,135.54,1,4,4,2.5,1355.4,At Risk,Win-back campaign + survey for feedback,Premium
+CUST872,79 days,189,48.58,5,2,2,3.5,485.8,Average,Re-engagement emails + limited-time discounts,Premium
+CUST873,95 days,468,89.13,4,4,3,3.8,891.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST874,93 days,741,130.93,4,5,4,4.3,1309.3,Loyal,Upsell to premium plan + referral program,Basic
+CUST875,203 days,47,10.79,2,1,1,1.5,107.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST876,249 days,64,14.76,1,1,1,1.0,147.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST877,181 days,686,159.28,2,5,4,3.3,1592.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST878,102 days,864,282.25,3,5,5,4.0,2822.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST879,234 days,400,72.99,2,3,3,2.5,729.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST880,79 days,731,195.37,5,5,5,5.0,1953.7,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST881,405 days,88,19.78,1,2,1,1.3,197.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST882,83 days,306,104.65,5,3,3,4.0,1046.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST883,94 days,320,93.45,4,3,3,3.5,934.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST884,89 days,160,47.51,4,2,2,3.0,475.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST885,243 days,576,265.38,1,4,5,2.7,2653.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST886,81 days,434,106.35,5,3,3,4.0,1063.5,Loyal,Upsell to premium plan + referral program,Basic
+CUST887,177 days,330,254.69,2,3,5,2.9,2546.9,At Risk,Win-back campaign + survey for feedback,Premium
+CUST888,91 days,374,304.4,4,3,5,3.9,3044.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST889,246 days,527,376.13,1,4,5,2.7,3761.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST890,195 days,51,11.51,2,1,1,1.5,115.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST891,317 days,270,72.01,1,3,3,2.0,720.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST892,82 days,624,136.59,5,4,4,4.5,1365.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST893,89 days,616,156.03,4,4,4,4.0,1560.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST894,90 days,30,7.61,4,1,1,2.5,76.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST895,209 days,560,173.83,2,4,4,3.0,1738.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST896,92 days,704,156.83,4,5,4,4.3,1568.3,Loyal,Upsell to premium plan + referral program,Basic
+CUST897,84 days,624,142.19,5,4,4,4.5,1421.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST898,97 days,464,121.52,4,4,4,4.0,1215.2,Loyal,Upsell to premium plan + referral program,Basic
+CUST899,90 days,1166,221.28,4,5,5,4.5,2212.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST900,209 days,754,207.92,2,5,5,3.5,2079.2,Average,Re-engagement emails + limited-time discounts,Premium
+CUST901,77 days,276,66.35,5,3,3,4.0,663.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST902,170 days,374,127.95,2,3,4,2.7,1279.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST903,88 days,756,156.41,4,5,4,4.3,1564.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST904,102 days,400,75.62,3,3,3,3.0,756.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST905,95 days,612,203.35,4,4,5,4.2,2033.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST906,98 days,1100,321.13,3,5,5,4.0,3211.3,Loyal,Upsell to premium plan + referral program,Premium
+CUST907,83 days,726,316.95,5,5,5,5.0,3169.5,VIP,Offer exclusive content + loyalty rewards,Basic
+CUST908,243 days,260,49.71,1,3,2,1.8,497.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST909,90 days,180,46.33,4,2,2,3.0,463.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST910,299 days,880,257.73,1,5,5,3.0,2577.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST911,76 days,740,151.29,5,5,4,4.8,1512.9,VIP,Offer exclusive content + loyalty rewards,Basic
+CUST912,96 days,150,35.26,4,2,2,3.0,352.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST913,196 days,414,116.45,2,3,3,2.5,1164.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST914,78 days,420,134.84,5,3,4,4.2,1348.4,Loyal,Upsell to premium plan + referral program,Basic
+CUST915,92 days,732,195.31,4,5,5,4.5,1953.1,Loyal,Upsell to premium plan + referral program,Premium
+CUST916,103 days,884,209.21,3,5,5,4.0,2092.1,Loyal,Upsell to premium plan + referral program,Premium
+CUST917,94 days,396,94.29,4,3,3,3.5,942.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST918,118 days,33,7.55,2,1,1,1.5,75.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST919,105 days,406,121.5,3,3,4,3.2,1215.0,Average,Re-engagement emails + limited-time discounts,Premium
+CUST920,252 days,442,140.09,1,4,4,2.5,1400.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST921,97 days,33,11.85,4,1,1,2.5,118.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST922,88 days,336,85.88,4,3,3,3.5,858.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST923,291 days,111,21.96,1,2,2,1.5,219.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST924,80 days,533,142.18,5,4,4,4.5,1421.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST925,285 days,780,152.41,1,5,4,2.8,1524.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST926,81 days,320,60.71,5,3,2,3.8,607.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST927,190 days,170,34.63,2,2,2,2.0,346.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST928,97 days,476,124.4,4,4,4,4.0,1244.0,Loyal,Upsell to premium plan + referral program,Basic
+CUST929,77 days,253,74.85,5,3,3,4.0,748.5,Loyal,Upsell to premium plan + referral program,Basic
+CUST930,210 days,34,9.93,2,1,1,1.5,99.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST931,234 days,288,88.27,2,3,3,2.5,882.7,At Risk,Win-back campaign + survey for feedback,Premium
+CUST932,103 days,96,20.95,3,2,1,2.3,209.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST933,102 days,116,29.02,3,2,2,2.5,290.2,At Risk,Win-back campaign + survey for feedback,Basic
+CUST934,254 days,270,63.76,1,3,2,1.8,637.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST935,237 days,345,83.08,1,3,3,2.0,830.8,At Risk,Win-back campaign + survey for feedback,Premium
+CUST936,385 days,504,137.12,1,4,4,2.5,1371.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST937,249 days,99,34.31,1,2,2,1.5,343.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST938,428 days,100,21.95,1,2,2,1.5,219.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST939,252 days,288,68.13,1,3,3,2.0,681.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST940,86 days,40,6.97,5,1,1,3.0,69.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST941,82 days,592,174.09,5,4,4,4.5,1740.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST942,219 days,42,10.33,2,1,1,1.5,103.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST943,253 days,748,179.64,1,5,5,3.0,1796.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST944,86 days,196,39.94,5,2,2,3.5,399.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST945,104 days,441,101.55,3,3,3,3.0,1015.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST946,145 days,32,6.64,2,1,1,1.5,66.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST947,78 days,1248,253.43,5,5,5,5.0,2534.3,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST948,95 days,288,88.42,4,3,3,3.5,884.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST949,89 days,350,94.48,4,3,3,3.5,944.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST950,78 days,110,20.85,5,2,1,3.3,208.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST951,76 days,792,268.77,5,5,5,5.0,2687.7,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST952,101 days,260,84.34,3,3,3,3.0,843.4,Average,Re-engagement emails + limited-time discounts,Premium
+CUST953,96 days,714,213.7,4,5,5,4.5,2137.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST954,166 days,64,13.85,2,1,1,1.5,138.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST955,92 days,156,28.0,4,2,2,3.0,280.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST956,107 days,62,16.59,2,1,1,1.5,165.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST957,326 days,111,33.85,1,2,2,1.5,338.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST958,83 days,494,151.75,5,4,4,4.5,1517.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST959,131 days,50,9.99,2,1,1,1.5,99.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST960,94 days,864,189.77,4,5,5,4.5,1897.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST961,417 days,70,15.29,1,1,1,1.0,152.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST962,78 days,507,84.44,5,4,3,4.3,844.4,Loyal,Upsell to premium plan + referral program,Basic
+CUST963,225 days,264,63.16,2,3,2,2.3,631.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST964,200 days,390,168.2,2,3,4,2.7,1682.0,At Risk,Win-back campaign + survey for feedback,Premium
+CUST965,80 days,377,91.27,5,3,3,4.0,912.7,Loyal,Upsell to premium plan + referral program,Basic
+CUST966,102 days,120,34.05,3,2,2,2.5,340.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST967,209 days,34,10.73,2,1,1,1.5,107.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST968,185 days,816,283.76,2,5,5,3.5,2837.6,Average,Re-engagement emails + limited-time discounts,Premium
+CUST969,84 days,660,148.74,5,4,4,4.5,1487.4,Loyal,Upsell to premium plan + referral program,Basic
+CUST970,204 days,240,52.65,2,2,2,2.0,526.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST971,79 days,147,49.33,5,2,2,3.5,493.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST972,184 days,420,119.32,2,3,4,2.7,1193.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST973,81 days,400,64.03,5,3,2,3.8,640.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST974,108 days,20,6.88,2,1,1,1.5,68.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST975,88 days,128,47.85,4,2,2,3.0,478.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST976,88 days,714,283.87,4,5,5,4.5,2838.7,Loyal,Upsell to premium plan + referral program,Premium
+CUST977,103 days,495,96.21,3,4,3,3.3,962.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST978,100 days,39,7.47,3,1,1,2.0,74.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST979,97 days,275,57.5,4,3,2,3.3,575.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST980,103 days,255,56.17,3,3,2,2.8,561.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST981,308 days,352,136.11,1,3,4,2.2,1361.1,At Risk,Win-back campaign + survey for feedback,Premium
+CUST982,90 days,36,6.86,4,1,1,2.5,68.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST983,96 days,88,20.76,4,2,1,2.8,207.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST984,88 days,475,133.13,4,4,4,4.0,1331.3,Loyal,Upsell to premium plan + referral program,Basic
+CUST985,97 days,132,28.23,4,2,2,3.0,282.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST986,86 days,645,166.11,5,4,4,4.5,1661.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST987,94 days,270,55.67,4,3,2,3.3,556.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST988,83 days,138,86.47,5,2,3,3.7,864.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST989,95 days,222,71.24,4,2,3,3.2,712.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST990,83 days,629,200.87,5,4,5,4.7,2008.7,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST991,85 days,960,233.05,5,5,5,5.0,2330.5,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST992,101 days,1330,330.75,3,5,5,4.0,3307.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST993,91 days,252,57.86,4,3,2,3.3,578.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST994,371 days,180,39.97,1,2,2,1.5,399.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST995,101 days,168,43.92,3,2,2,2.5,439.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST996,188 days,168,47.01,2,2,2,2.0,470.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST997,86 days,798,146.94,5,5,4,4.8,1469.4,VIP,Offer exclusive content + loyalty rewards,Basic
+CUST998,102 days,65,36.94,3,1,2,2.2,369.4,At Risk,Win-back campaign + survey for feedback,Premium
+CUST999,137 days,40,6.49,2,1,1,1.5,64.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1000,94 days,290,75.99,4,3,3,3.5,759.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1001,101 days,24,14.03,3,1,1,2.0,140.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1002,87 days,180,41.01,5,2,2,3.5,410.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1003,90 days,672,217.2,4,5,5,4.5,2172.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST1004,220 days,234,39.97,2,2,2,2.0,399.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1005,267 days,915,232.65,1,5,5,3.0,2326.5,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1006,101 days,608,217.51,3,4,5,3.7,2175.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1007,85 days,464,124.54,5,4,4,4.5,1245.4,Loyal,Upsell to premium plan + referral program,Premium
+CUST1008,102 days,204,66.67,3,2,3,2.7,666.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1009,86 days,333,91.0,5,3,3,4.0,910.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST1010,203 days,330,74.16,2,3,3,2.5,741.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1011,77 days,371,74.93,5,3,3,4.0,749.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1012,86 days,330,107.96,5,3,3,4.0,1079.6,Loyal,Upsell to premium plan + referral program,Basic
+CUST1013,94 days,288,65.75,4,3,2,3.3,657.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1014,81 days,390,85.59,5,3,3,4.0,855.9,Loyal,Upsell to premium plan + referral program,Basic
+CUST1015,89 days,370,118.36,4,3,3,3.5,1183.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1016,207 days,144,33.74,2,2,2,2.0,337.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1017,321 days,406,96.47,1,3,3,2.0,964.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1018,355 days,333,91.99,1,3,3,2.0,919.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1019,83 days,220,47.85,5,2,2,3.5,478.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1020,328 days,444,88.16,1,4,3,2.3,881.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1021,224 days,182,46.07,2,2,2,2.0,460.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1022,217 days,595,114.97,2,4,3,2.8,1149.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1023,97 days,810,305.65,4,5,5,4.5,3056.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST1024,90 days,550,166.16,4,4,4,4.0,1661.6,Loyal,Upsell to premium plan + referral program,Premium
+CUST1025,99 days,45,11.57,3,1,1,2.0,115.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1026,82 days,364,76.03,5,3,3,4.0,760.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1027,86 days,689,149.06,5,5,4,4.8,1490.6,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1028,82 days,450,161.11,5,4,4,4.5,1611.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST1029,104 days,318,62.13,3,3,2,2.8,621.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1030,174 days,48,11.28,2,1,1,1.5,112.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1031,87 days,440,153.11,5,3,4,4.2,1531.1,Loyal,Upsell to premium plan + referral program,Basic
+CUST1032,101 days,575,154.68,3,4,4,3.5,1546.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1033,358 days,99,70.45,1,2,3,1.7,704.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1034,210 days,43,16.55,2,1,1,1.5,165.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1035,208 days,66,38.66,2,1,2,1.7,386.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1036,93 days,49,17.09,4,1,1,2.5,170.9,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1037,80 days,1056,820.84,5,5,5,5.0,8208.4,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1038,163 days,27,6.37,2,1,1,1.5,63.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1039,99 days,624,157.11,3,4,4,3.5,1571.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1040,91 days,276,69.27,4,3,3,3.5,692.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1041,100 days,728,223.0,3,5,5,4.0,2230.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST1042,88 days,600,247.1,4,4,5,4.2,2471.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST1043,100 days,931,223.69,3,5,5,4.0,2236.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST1044,219 days,33,6.45,2,1,1,1.5,64.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1045,89 days,51,10.66,4,1,1,2.5,106.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1046,97 days,117,22.55,4,2,2,3.0,225.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1047,79 days,840,217.02,5,5,5,5.0,2170.2,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1048,331 days,504,175.69,1,4,4,2.5,1756.9,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1049,214 days,530,116.23,2,4,3,2.8,1162.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1050,82 days,518,164.18,5,4,4,4.5,1641.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST1051,176 days,663,133.23,2,4,4,3.0,1332.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1052,103 days,216,47.08,3,2,2,2.5,470.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1053,97 days,819,239.41,4,5,5,4.5,2394.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST1054,372 days,46,11.03,1,1,1,1.0,110.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1055,93 days,612,153.42,4,4,4,4.0,1534.2,Loyal,Upsell to premium plan + referral program,Premium
+CUST1056,103 days,564,188.78,3,4,5,3.7,1887.8,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1057,109 days,20,6.56,2,1,1,1.5,65.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1058,191 days,59,26.33,2,1,2,1.7,263.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1059,100 days,850,187.02,3,5,5,4.0,1870.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST1060,97 days,52,30.81,4,1,2,2.7,308.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1061,104 days,392,103.84,3,3,3,3.0,1038.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1062,248 days,31,7.4,1,1,1,1.0,74.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1063,76 days,610,162.5,5,4,4,4.5,1625.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST1064,79 days,385,81.25,5,3,3,4.0,812.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST1065,270 days,76,20.63,1,1,1,1.0,206.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1066,89 days,663,108.14,4,4,3,3.8,1081.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1067,78 days,371,82.68,5,3,3,4.0,826.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST1068,105 days,286,83.16,3,3,3,3.0,831.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1069,182 days,264,207.85,2,3,5,2.9,2078.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1070,78 days,624,182.71,5,4,5,4.7,1827.1,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1071,91 days,506,150.99,4,4,4,4.0,1509.9,Loyal,Upsell to premium plan + referral program,Basic
+CUST1072,414 days,366,103.16,1,3,3,2.0,1031.6,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1073,95 days,140,33.54,4,2,2,3.0,335.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1074,104 days,51,9.92,3,1,1,2.0,99.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1075,88 days,180,63.31,4,2,2,3.0,633.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1076,90 days,476,156.26,4,4,4,4.0,1562.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1077,89 days,28,6.82,4,1,1,2.5,68.2,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1078,99 days,264,77.43,3,3,3,3.0,774.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1079,100 days,630,240.72,3,4,5,3.7,2407.2,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1080,94 days,304,60.53,4,3,2,3.3,605.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1081,358 days,423,137.17,1,3,4,2.2,1371.7,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1082,161 days,49,15.87,2,1,1,1.5,158.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1083,132 days,30,7.06,2,1,1,1.5,70.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1084,422 days,192,45.71,1,2,2,1.5,457.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1085,98 days,539,132.95,3,4,4,3.5,1329.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1086,263 days,430,151.44,1,3,4,2.2,1514.4,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1087,97 days,500,167.16,4,4,4,4.0,1671.6,Loyal,Upsell to premium plan + referral program,Premium
+CUST1088,256 days,41,10.72,1,1,1,1.0,107.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1089,425 days,272,79.27,1,3,3,2.0,792.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1090,239 days,406,88.26,1,3,3,2.0,882.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1091,394 days,420,95.18,1,3,3,2.0,951.8,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1092,100 days,384,95.72,3,3,3,3.0,957.2,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1093,82 days,364,88.52,5,3,3,4.0,885.2,Loyal,Upsell to premium plan + referral program,Basic
+CUST1094,91 days,320,103.15,4,3,3,3.5,1031.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1095,104 days,56,13.4,3,1,1,2.0,134.0,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1096,93 days,588,148.55,4,4,4,4.0,1485.5,Loyal,Upsell to premium plan + referral program,Basic
+CUST1097,196 days,49,15.35,2,1,1,1.5,153.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1098,257 days,663,174.39,1,4,4,2.5,1743.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1099,87 days,231,75.46,5,2,3,3.7,754.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1100,218 days,33,10.4,2,1,1,1.5,104.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1101,418 days,94,32.2,1,2,2,1.5,322.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1102,260 days,645,154.92,1,4,4,2.5,1549.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1103,401 days,322,77.06,1,3,3,2.0,770.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1104,79 days,608,123.71,5,4,4,4.5,1237.1,Loyal,Upsell to premium plan + referral program,Basic
+CUST1105,427 days,280,66.15,1,3,2,1.8,661.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1106,255 days,660,184.82,1,4,5,2.7,1848.2,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1107,79 days,740,128.91,5,5,4,4.8,1289.1,VIP,Offer exclusive content + loyalty rewards,Basic
+CUST1108,76 days,222,75.79,5,2,3,3.7,757.9,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1109,236 days,224,44.73,2,2,2,2.0,447.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1110,105 days,135,35.64,3,2,2,2.5,356.4,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1111,215 days,1045,198.97,2,5,5,3.5,1989.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1112,238 days,867,273.33,1,5,5,3.0,2733.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1113,104 days,54,11.03,3,1,1,2.0,110.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1114,78 days,1054,294.9,5,5,5,5.0,2949.0,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1115,173 days,1007,210.86,2,5,5,3.5,2108.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1116,104 days,200,44.69,3,2,2,2.5,446.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1117,99 days,390,140.06,3,3,4,3.2,1400.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1118,94 days,819,159.97,4,5,4,4.3,1599.7,Loyal,Upsell to premium plan + referral program,Basic
+CUST1119,79 days,47,11.6,5,1,1,3.0,116.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1120,434 days,160,52.59,1,2,2,1.5,525.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1121,95 days,217,52.3,4,2,2,3.0,523.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1122,208 days,864,195.15,2,5,5,3.5,1951.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1123,102 days,1188,257.67,3,5,5,4.0,2576.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST1124,89 days,1144,374.5,4,5,5,4.5,3745.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST1125,377 days,78,20.61,1,1,1,1.0,206.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1126,183 days,918,282.77,2,5,5,3.5,2827.7,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1127,103 days,931,200.07,3,5,5,4.0,2000.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST1128,103 days,217,73.81,3,2,3,2.7,738.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1129,104 days,912,200.31,3,5,5,4.0,2003.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST1130,91 days,42,16.71,4,1,1,2.5,167.1,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1131,212 days,430,103.96,2,3,3,2.5,1039.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1132,102 days,180,49.46,3,2,2,2.5,494.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1133,102 days,74,22.93,3,1,2,2.2,229.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1134,79 days,80,20.53,5,1,1,3.0,205.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1135,421 days,195,32.19,1,2,2,1.5,321.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1136,273 days,50,13.25,1,1,1,1.0,132.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1137,82 days,510,115.98,5,4,3,4.3,1159.8,Loyal,Upsell to premium plan + referral program,Basic
+CUST1138,133 days,56,15.91,2,1,1,1.5,159.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1139,101 days,203,44.47,3,2,2,2.5,444.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1140,91 days,468,99.42,4,4,3,3.8,994.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1141,204 days,750,171.97,2,5,4,3.3,1719.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1142,303 days,31,10.6,1,1,1,1.0,106.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1143,322 days,245,74.14,1,2,3,1.7,741.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1144,87 days,504,145.28,5,4,4,4.5,1452.8,Loyal,Upsell to premium plan + referral program,Basic
+CUST1145,87 days,645,245.91,5,4,5,4.7,2459.1,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1146,201 days,138,29.72,2,2,2,2.0,297.2,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1147,93 days,41,15.0,4,1,1,2.5,150.0,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1148,101 days,820,511.42,3,5,5,4.0,5114.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST1149,96 days,32,10.45,4,1,1,2.5,104.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1150,236 days,400,109.16,2,3,3,2.5,1091.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1151,104 days,396,90.11,3,3,3,3.0,901.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1152,76 days,594,158.8,5,4,4,4.5,1588.0,Loyal,Upsell to premium plan + referral program,Basic
+CUST1153,383 days,450,95.78,1,4,3,2.3,957.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1154,101 days,1150,262.06,3,5,5,4.0,2620.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1155,101 days,440,79.47,3,3,3,3.0,794.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1156,98 days,594,131.75,3,4,4,3.5,1317.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1157,101 days,288,98.65,3,3,3,3.0,986.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1158,88 days,495,128.46,4,4,4,4.0,1284.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1159,81 days,660,179.84,5,4,5,4.7,1798.4,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1160,326 days,468,155.04,1,4,4,2.5,1550.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1161,87 days,782,173.93,5,5,4,4.8,1739.3,VIP,Offer exclusive content + loyalty rewards,Basic
+CUST1162,408 days,364,112.2,1,3,3,2.0,1122.0,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1163,97 days,350,106.83,4,3,3,3.5,1068.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1164,94 days,340,69.41,4,3,3,3.5,694.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1165,80 days,648,130.6,5,4,4,4.5,1306.0,Loyal,Upsell to premium plan + referral program,Basic
+CUST1166,93 days,198,71.0,4,2,3,3.2,710.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1167,154 days,61,15.05,2,1,1,1.5,150.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1168,85 days,408,95.27,5,3,3,4.0,952.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST1169,76 days,231,52.01,5,2,2,3.5,520.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1170,268 days,54,17.52,1,1,1,1.0,175.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1171,258 days,41,11.83,1,1,1,1.0,118.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1172,109 days,48,10.51,2,1,1,1.5,105.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1173,96 days,51,10.12,4,1,1,2.5,101.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1174,241 days,522,116.06,1,4,3,2.3,1160.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1175,98 days,350,105.31,3,3,3,3.0,1053.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1176,104 days,486,101.17,3,4,3,3.3,1011.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1177,76 days,768,271.41,5,5,5,5.0,2714.1,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1178,86 days,155,59.34,5,2,2,3.5,593.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1179,105 days,726,247.76,3,5,5,4.0,2477.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1180,96 days,684,178.26,4,5,5,4.5,1782.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1181,162 days,54,14.99,2,1,1,1.5,149.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1182,95 days,690,147.1,4,5,4,4.3,1471.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST1183,82 days,882,224.48,5,5,5,5.0,2244.8,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1184,96 days,1078,241.85,4,5,5,4.5,2418.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST1185,428 days,37,9.99,1,1,1,1.0,99.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1186,97 days,770,149.2,4,5,4,4.3,1492.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST1187,93 days,152,26.17,4,2,2,3.0,261.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1188,259 days,864,203.64,1,5,5,3.0,2036.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1189,253 days,35,6.94,1,1,1,1.0,69.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1190,93 days,1100,351.45,4,5,5,4.5,3514.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST1191,203 days,429,119.14,2,3,4,2.7,1191.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1192,202 days,470,174.48,2,4,4,3.0,1744.8,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1193,223 days,240,82.9,2,2,3,2.2,829.0,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1194,76 days,234,66.16,5,2,3,3.7,661.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1195,214 days,47,11.51,2,1,1,1.5,115.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1196,79 days,132,42.42,5,2,2,3.5,424.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1197,102 days,160,47.73,3,2,2,2.5,477.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1198,93 days,666,122.75,4,4,4,4.0,1227.5,Loyal,Upsell to premium plan + referral program,Basic
+CUST1199,79 days,288,98.19,5,3,3,4.0,981.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST1200,92 days,37,10.09,4,1,1,2.5,100.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1201,253 days,731,190.9,1,5,5,3.0,1909.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1202,97 days,500,133.88,4,4,4,4.0,1338.8,Loyal,Upsell to premium plan + referral program,Basic
+CUST1203,77 days,748,143.33,5,5,4,4.8,1433.3,VIP,Offer exclusive content + loyalty rewards,Basic
+CUST1204,87 days,989,255.02,5,5,5,5.0,2550.2,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1205,81 days,184,64.37,5,2,2,3.5,643.7,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1206,354 days,39,10.06,1,1,1,1.0,100.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1207,98 days,748,194.24,3,5,5,4.0,1942.4,Loyal,Upsell to premium plan + referral program,Standard
+CUST1208,100 days,624,180.19,3,4,5,3.7,1801.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1209,96 days,108,19.67,4,2,1,2.8,196.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1210,98 days,1254,301.95,3,5,5,4.0,3019.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST1211,102 days,240,141.06,3,2,4,2.9,1410.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1212,181 days,72,14.06,2,1,1,1.5,140.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1213,351 days,164,43.04,1,2,2,1.5,430.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1214,89 days,476,94.38,4,4,3,3.8,943.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1215,204 days,650,163.43,2,4,4,3.0,1634.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1216,147 days,31,7.6,2,1,1,1.5,76.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1217,375 days,594,125.04,1,4,4,2.5,1250.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1218,92 days,168,38.37,4,2,2,3.0,383.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1219,84 days,102,32.71,5,2,2,3.5,327.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1220,101 days,660,236.98,3,4,5,3.7,2369.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1221,210 days,738,181.78,2,5,5,3.5,1817.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1222,406 days,450,120.65,1,4,4,2.5,1206.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1223,80 days,912,331.1,5,5,5,5.0,3311.0,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1224,98 days,330,96.01,3,3,3,3.0,960.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1225,298 days,300,71.66,1,3,3,2.0,716.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1226,152 days,22,6.8,2,1,1,1.5,68.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1227,295 days,195,51.28,1,2,2,1.5,512.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1228,180 days,282,64.86,2,3,2,2.3,648.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1229,82 days,276,65.16,5,3,2,3.8,651.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1230,104 days,624,375.99,3,4,5,3.7,3759.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1231,168 days,189,66.36,2,2,3,2.2,663.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1232,94 days,60,12.68,4,1,1,2.5,126.8,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1233,85 days,110,35.6,5,2,2,3.5,356.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1234,194 days,676,133.92,2,5,4,3.3,1339.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1235,90 days,42,13.55,4,1,1,2.5,135.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1236,200 days,448,108.44,2,4,3,2.8,1084.4,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1237,81 days,696,190.69,5,5,5,5.0,1906.9,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1238,396 days,41,15.46,1,1,1,1.0,154.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1239,90 days,672,216.33,4,5,5,4.5,2163.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1240,81 days,620,204.22,5,4,5,4.7,2042.2,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1241,242 days,102,19.01,1,2,1,1.3,190.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1242,104 days,795,163.87,3,5,4,3.8,1638.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1243,184 days,600,174.43,2,4,4,3.0,1744.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1244,232 days,44,12.91,2,1,1,1.5,129.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1245,83 days,504,159.89,5,4,4,4.5,1598.9,Loyal,Upsell to premium plan + referral program,Basic
+CUST1246,83 days,760,218.56,5,5,5,5.0,2185.6,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1247,98 days,795,169.38,3,5,4,3.8,1693.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1248,101 days,520,143.86,3,4,4,3.5,1438.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1249,340 days,420,140.5,1,3,4,2.2,1405.0,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1250,431 days,215,50.63,1,2,2,1.5,506.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1251,169 days,510,187.01,2,4,5,3.2,1870.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1252,216 days,660,137.08,2,4,4,3.0,1370.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1253,96 days,896,260.28,4,5,5,4.5,2602.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST1254,301 days,322,82.05,1,3,3,2.0,820.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1255,173 days,795,219.33,2,5,5,3.5,2193.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1256,197 days,39,11.41,2,1,1,1.5,114.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1257,333 days,444,132.78,1,4,4,2.5,1327.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1258,78 days,777,225.21,5,5,5,5.0,2252.1,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1259,108 days,53,15.48,2,1,1,1.5,154.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1260,88 days,874,311.15,4,5,5,4.5,3111.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST1261,96 days,75,22.61,4,1,2,2.7,226.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1262,100 days,344,127.82,3,3,4,3.2,1278.2,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1263,327 days,360,153.26,1,3,4,2.2,1532.6,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1264,207 days,44,10.77,2,1,1,1.5,107.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1265,206 days,510,96.51,2,4,3,2.8,965.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1266,187 days,640,233.4,2,4,5,3.2,2334.0,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1267,99 days,708,174.66,3,5,4,3.8,1746.6,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1268,101 days,22,6.82,3,1,1,2.0,68.2,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1269,87 days,434,108.29,5,3,3,4.0,1082.9,Loyal,Upsell to premium plan + referral program,Premium
+CUST1270,76 days,360,109.42,5,3,3,4.0,1094.2,Loyal,Upsell to premium plan + referral program,Basic
+CUST1271,85 days,552,168.58,5,4,4,4.5,1685.8,Loyal,Upsell to premium plan + referral program,Basic
+CUST1272,245 days,330,214.58,1,3,5,2.4,2145.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1273,237 days,46,10.38,1,1,1,1.0,103.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1274,99 days,750,157.41,3,5,4,3.8,1574.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1275,92 days,507,91.74,4,4,3,3.8,917.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1276,306 days,583,163.38,1,4,4,2.5,1633.8,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1277,87 days,81,19.43,5,1,1,3.0,194.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1278,254 days,252,91.33,1,3,3,2.0,913.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1279,410 days,54,14.83,1,1,1,1.0,148.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1280,89 days,690,236.63,4,5,5,4.5,2366.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1281,91 days,544,125.53,4,4,4,4.0,1255.3,Loyal,Upsell to premium plan + referral program,Premium
+CUST1282,243 days,330,106.73,1,3,3,2.0,1067.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1283,425 days,638,186.13,1,4,5,2.7,1861.3,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1284,79 days,72,21.01,5,1,1,3.0,210.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1285,377 days,408,122.06,1,3,4,2.2,1220.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1286,98 days,800,184.24,3,5,5,4.0,1842.4,Loyal,Upsell to premium plan + referral program,Standard
+CUST1287,86 days,98,21.53,5,2,2,3.5,215.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1288,171 days,152,26.63,2,2,2,2.0,266.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1289,427 days,205,53.58,1,2,2,1.5,535.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1290,100 days,49,10.99,3,1,1,2.0,109.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1291,274 days,210,74.52,1,2,3,1.7,745.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1292,105 days,288,83.38,3,3,3,3.0,833.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1293,88 days,540,102.72,4,4,3,3.8,1027.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1294,86 days,31,9.93,5,1,1,3.0,99.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1295,334 days,360,88.45,1,3,3,2.0,884.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1296,103 days,1012,328.63,3,5,5,4.0,3286.3,Loyal,Upsell to premium plan + referral program,Premium
+CUST1297,93 days,1058,229.71,4,5,5,4.5,2297.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST1298,102 days,374,122.48,3,3,4,3.2,1224.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1299,168 days,68,16.87,2,1,1,1.5,168.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1300,216 days,714,163.52,2,5,4,3.3,1635.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1301,104 days,25,6.98,3,1,1,2.0,69.8,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1302,84 days,51,10.34,5,1,1,3.0,103.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1303,249 days,60,14.64,1,1,1,1.0,146.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1304,103 days,748,182.92,3,5,5,4.0,1829.2,Loyal,Upsell to premium plan + referral program,Premium
+CUST1305,324 days,570,151.79,1,4,4,2.5,1517.9,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1306,302 days,513,155.52,1,4,4,2.5,1555.2,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1307,100 days,510,101.2,3,4,3,3.3,1012.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1308,232 days,78,24.1,2,1,2,1.7,241.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1309,101 days,782,270.98,3,5,5,4.0,2709.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST1310,83 days,400,72.53,5,3,3,4.0,725.3,Loyal,Upsell to premium plan + referral program,Basic
+CUST1311,81 days,583,234.34,5,4,5,4.7,2343.4,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1312,91 days,220,45.91,4,2,2,3.0,459.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1313,99 days,612,118.03,3,4,3,3.3,1180.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1314,213 days,600,235.83,2,4,5,3.2,2358.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1315,82 days,295,73.1,5,3,3,4.0,731.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST1316,146 days,62,15.64,2,1,1,1.5,156.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1317,80 days,368,117.24,5,3,3,4.0,1172.4,Loyal,Upsell to premium plan + referral program,Basic
+CUST1318,100 days,600,102.47,3,4,3,3.3,1024.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1319,185 days,120,20.26,2,2,1,1.8,202.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1320,97 days,880,358.49,4,5,5,4.5,3584.9,Loyal,Upsell to premium plan + referral program,Premium
+CUST1321,93 days,102,22.53,4,2,2,3.0,225.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1322,247 days,230,49.98,1,2,2,1.5,499.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1323,77 days,836,150.26,5,5,4,4.8,1502.6,VIP,Offer exclusive content + loyalty rewards,Basic
+CUST1324,85 days,430,102.39,5,3,3,4.0,1023.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST1325,98 days,720,171.29,3,5,4,3.8,1712.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1326,301 days,94,20.25,1,2,1,1.3,202.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1327,212 days,42,14.44,2,1,1,1.5,144.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1328,228 days,630,189.36,2,4,5,3.2,1893.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1329,241 days,160,32.85,1,2,2,1.5,328.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1330,90 days,966,250.93,4,5,5,4.5,2509.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1331,88 days,225,72.25,4,2,3,3.2,722.5,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1332,220 days,40,6.9,2,1,1,1.5,69.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1333,86 days,61,14.46,5,1,1,3.0,144.6,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1334,94 days,510,164.31,4,4,4,4.0,1643.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST1335,78 days,234,62.92,5,2,2,3.5,629.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1336,82 days,600,211.96,5,4,5,4.7,2119.6,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1337,309 days,128,25.9,1,2,2,1.5,259.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1338,101 days,1056,235.8,3,5,5,4.0,2358.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST1339,89 days,204,45.47,4,2,2,3.0,454.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1340,89 days,400,147.7,4,3,4,3.7,1477.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1341,374 days,378,99.52,1,3,3,2.0,995.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1342,88 days,900,292.99,4,5,5,4.5,2929.9,Loyal,Upsell to premium plan + referral program,Premium
+CUST1343,87 days,1320,300.65,5,5,5,5.0,3006.5,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1344,253 days,432,126.27,1,3,4,2.2,1262.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1345,230 days,590,149.09,2,4,4,3.0,1490.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1346,94 days,96,31.32,4,2,2,3.0,313.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1347,86 days,55,10.39,5,1,1,3.0,103.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1348,98 days,1344,337.1,3,5,5,4.0,3371.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST1349,97 days,420,155.79,4,3,4,3.7,1557.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1350,98 days,666,215.42,3,4,5,3.7,2154.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1351,99 days,506,113.53,3,4,3,3.3,1135.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1352,97 days,156,49.33,4,2,2,3.0,493.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1353,94 days,159,51.01,4,2,2,3.0,510.1,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1354,247 days,374,122.35,1,3,4,2.2,1223.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1355,332 days,110,20.9,1,2,1,1.3,209.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1356,220 days,53,10.47,2,1,1,1.5,104.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1357,103 days,561,109.75,3,4,3,3.3,1097.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1358,103 days,25,14.63,3,1,1,2.0,146.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1359,289 days,357,80.69,1,3,3,2.0,806.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1360,94 days,210,59.97,4,2,2,3.0,599.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1361,103 days,900,186.71,3,5,5,4.0,1867.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST1362,102 days,189,50.95,3,2,2,2.5,509.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1363,217 days,192,44.31,2,2,2,2.0,443.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1364,105 days,57,15.85,3,1,1,2.0,158.5,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1365,101 days,52,11.43,3,1,1,2.0,114.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1366,78 days,230,68.33,5,2,3,3.7,683.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1367,354 days,92,20.48,1,2,1,1.3,204.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1368,78 days,476,150.73,5,4,4,4.5,1507.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1369,205 days,66,21.31,2,1,1,1.5,213.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1370,245 days,363,131.72,1,3,4,2.2,1317.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1371,203 days,832,160.67,2,5,4,3.3,1606.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1372,88 days,612,198.11,4,4,5,4.2,1981.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST1373,105 days,43,10.61,3,1,1,2.0,106.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1374,98 days,484,121.09,3,4,4,3.5,1210.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1375,153 days,59,14.47,2,1,1,1.5,144.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1376,272 days,46,10.58,1,1,1,1.0,105.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1377,103 days,575,171.06,3,4,4,3.5,1710.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1378,91 days,87,21.2,4,2,1,2.8,212.0,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1379,419 days,51,10.88,1,1,1,1.0,108.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1380,225 days,520,105.19,2,4,3,2.8,1051.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1381,429 days,175,33.54,1,2,2,1.5,335.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1382,89 days,598,139.53,4,4,4,4.0,1395.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1383,83 days,33,7.46,5,1,1,3.0,74.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1384,220 days,147,36.05,2,2,2,2.0,360.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1385,251 days,287,75.99,1,3,3,2.0,759.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1386,96 days,76,21.51,4,1,1,2.5,215.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1387,101 days,352,94.01,3,3,3,3.0,940.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1388,83 days,31,6.89,5,1,1,3.0,68.9,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1389,96 days,86,22.21,4,2,2,3.0,222.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1390,100 days,333,59.52,3,3,2,2.8,595.2,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1391,188 days,59,16.77,2,1,1,1.5,167.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1392,98 days,325,91.45,3,3,3,3.0,914.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1393,371 days,301,118.85,1,3,3,2.0,1188.5,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1394,98 days,990,208.93,3,5,5,4.0,2089.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1395,208 days,52,10.36,2,1,1,1.5,103.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1396,196 days,41,11.46,2,1,1,1.5,114.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1397,105 days,104,33.9,3,2,2,2.5,339.0,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1398,88 days,570,101.62,4,4,3,3.8,1016.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1399,86 days,544,111.05,5,4,3,4.3,1110.5,Loyal,Upsell to premium plan + referral program,Basic
+CUST1400,93 days,41,9.9,4,1,1,2.5,99.0,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1401,252 days,624,110.74,1,4,3,2.3,1107.4,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1402,113 days,22,6.78,2,1,1,1.5,67.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1403,82 days,871,210.15,5,5,5,5.0,2101.5,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1404,98 days,672,239.88,3,5,5,4.0,2398.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST1405,102 days,860,235.61,3,5,5,4.0,2356.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST1406,210 days,741,197.8,2,5,5,3.5,1978.0,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1407,87 days,912,197.39,5,5,5,5.0,1973.9,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1408,93 days,232,55.7,4,2,2,3.0,557.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1409,253 days,644,153.82,1,4,4,2.5,1538.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1410,150 days,44,10.36,2,1,1,1.5,103.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1411,94 days,1218,320.47,4,5,5,4.5,3204.7,Loyal,Upsell to premium plan + referral program,Premium
+CUST1412,207 days,252,58.75,2,3,2,2.3,587.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1413,82 days,627,217.93,5,4,5,4.7,2179.3,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1414,93 days,340,73.68,4,3,3,3.5,736.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1415,432 days,152,27.75,1,2,2,1.5,277.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1416,249 days,245,51.03,1,2,2,1.5,510.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1417,102 days,799,284.66,3,5,5,4.0,2846.6,Loyal,Upsell to premium plan + referral program,Premium
+CUST1418,81 days,112,29.67,5,2,2,3.5,296.7,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1419,102 days,50,12.01,3,1,1,2.0,120.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1420,84 days,180,70.17,5,2,3,3.7,701.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1421,96 days,144,41.36,4,2,2,3.0,413.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1422,88 days,800,131.03,4,5,4,4.3,1310.3,Loyal,Upsell to premium plan + referral program,Basic
+CUST1423,100 days,185,32.33,3,2,2,2.5,323.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1424,196 days,779,193.71,2,5,5,3.5,1937.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1425,186 days,225,57.68,2,2,2,2.0,576.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1426,221 days,30,10.92,2,1,1,1.5,109.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1427,91 days,612,132.94,4,4,4,4.0,1329.4,Loyal,Upsell to premium plan + referral program,Basic
+CUST1428,301 days,208,58.67,1,2,2,1.5,586.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1429,333 days,144,28.54,1,2,2,1.5,285.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1430,433 days,64,22.8,1,1,2,1.2,228.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1431,343 days,400,115.6,1,3,3,2.0,1156.0,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1432,256 days,35,10.58,1,1,1,1.0,105.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1433,97 days,1610,377.91,4,5,5,4.5,3779.1,Loyal,Upsell to premium plan + referral program,Premium
+CUST1434,96 days,805,227.97,4,5,5,4.5,2279.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST1435,182 days,528,119.56,2,4,4,3.0,1195.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1436,193 days,26,7.48,2,1,1,1.5,74.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1437,206 days,600,198.94,2,4,5,3.2,1989.4,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1438,77 days,92,20.95,5,2,1,3.3,209.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1439,100 days,37,7.25,3,1,1,2.0,72.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1440,101 days,306,69.8,3,3,3,3.0,698.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1441,297 days,212,42.26,1,2,2,1.5,422.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1442,81 days,1050,343.24,5,5,5,5.0,3432.4,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1443,86 days,1105,295.36,5,5,5,5.0,2953.6,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1444,100 days,816,181.04,3,5,5,4.0,1810.4,Loyal,Upsell to premium plan + referral program,Standard
+CUST1445,104 days,333,91.13,3,3,3,3.0,911.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1446,294 days,39,6.98,1,1,1,1.0,69.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1447,171 days,162,44.19,2,2,2,2.0,441.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1448,210 days,760,125.42,2,5,4,3.3,1254.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1449,86 days,30,6.67,5,1,1,3.0,66.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1450,179 days,850,177.22,2,5,4,3.3,1772.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1451,77 days,448,168.99,5,4,4,4.5,1689.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST1452,205 days,198,39.4,2,2,2,2.0,394.0,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1453,78 days,1122,275.94,5,5,5,5.0,2759.4,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1454,98 days,308,83.43,3,3,3,3.0,834.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1455,189 days,918,173.64,2,5,4,3.3,1736.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1456,275 days,300,114.72,1,3,3,2.0,1147.2,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1457,93 days,300,119.74,4,3,4,3.7,1197.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1458,271 days,31,7.53,1,1,1,1.0,75.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1459,88 days,560,145.08,4,4,4,4.0,1450.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST1460,78 days,1100,248.26,5,5,5,5.0,2482.6,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1461,105 days,160,67.3,3,2,3,2.7,673.0,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1462,76 days,585,115.04,5,4,3,4.3,1150.4,Loyal,Upsell to premium plan + referral program,Basic
+CUST1463,79 days,465,98.15,5,4,3,4.3,981.5,Loyal,Upsell to premium plan + referral program,Basic
+CUST1464,100 days,612,125.15,3,4,4,3.5,1251.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1465,88 days,132,31.91,4,2,2,3.0,319.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1466,433 days,105,32.68,1,2,2,1.5,326.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1467,103 days,1197,330.51,3,5,5,4.0,3305.1,Loyal,Upsell to premium plan + referral program,Premium
+CUST1468,211 days,45,11.64,2,1,1,1.5,116.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1469,77 days,198,65.48,5,2,2,3.5,654.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1470,184 days,740,221.45,2,5,5,3.5,2214.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1471,98 days,84,30.73,3,2,2,2.5,307.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1472,94 days,660,136.98,4,4,4,4.0,1369.8,Loyal,Upsell to premium plan + referral program,Basic
+CUST1473,100 days,594,123.68,3,4,4,3.5,1236.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1474,91 days,264,64.16,4,3,2,3.3,641.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1475,97 days,560,136.8,4,4,4,4.0,1368.0,Loyal,Upsell to premium plan + referral program,Basic
+CUST1476,238 days,105,36.32,1,2,2,1.5,363.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1477,385 days,112,34.78,1,2,2,1.5,347.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1478,298 days,29,7.05,1,1,1,1.0,70.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1479,184 days,528,185.33,2,4,5,3.2,1853.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1480,76 days,124,40.35,5,2,2,3.5,403.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1481,77 days,380,65.86,5,3,2,3.8,658.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1482,91 days,828,160.84,4,5,4,4.3,1608.4,Loyal,Upsell to premium plan + referral program,Basic
+CUST1483,87 days,180,37.91,5,2,2,3.5,379.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1484,83 days,736,167.15,5,5,4,4.8,1671.5,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1485,98 days,273,77.2,3,3,3,3.0,772.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1486,93 days,846,178.63,4,5,5,4.5,1786.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1487,77 days,248,60.95,5,3,2,3.8,609.5,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1488,345 days,490,154.29,1,4,4,2.5,1542.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1489,210 days,245,49.65,2,2,2,2.0,496.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1490,81 days,222,45.51,5,2,2,3.5,455.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1491,147 days,59,16.45,2,1,1,1.5,164.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1492,211 days,37,6.87,2,1,1,1.5,68.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1493,91 days,240,91.1,4,2,3,3.2,911.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1494,86 days,256,92.93,5,3,3,4.0,929.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1495,82 days,880,206.61,5,5,5,5.0,2066.1,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1496,287 days,236,59.24,1,2,2,1.5,592.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1497,266 days,39,11.38,1,1,1,1.0,113.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1498,105 days,560,99.03,3,4,3,3.3,990.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1499,100 days,704,270.66,3,5,5,4.0,2706.6,Loyal,Upsell to premium plan + referral program,Premium
+CUST1500,95 days,136,29.3,4,2,2,3.0,293.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1501,93 days,208,45.06,4,2,2,3.0,450.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1502,103 days,43,12.06,3,1,1,2.0,120.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1503,344 days,306,63.33,1,3,2,1.8,633.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1504,238 days,429,111.54,1,3,3,2.0,1115.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1505,271 days,140,37.24,1,2,2,1.5,372.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1506,260 days,574,146.22,1,4,4,2.5,1462.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1507,228 days,504,162.39,2,4,4,3.0,1623.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1508,83 days,476,167.93,5,4,4,4.5,1679.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1509,174 days,1088,282.53,2,5,5,3.5,2825.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1510,88 days,145,35.62,4,2,2,3.0,356.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1511,174 days,54,10.9,2,1,1,1.5,109.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1512,101 days,330,64.15,3,3,2,2.8,641.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1513,124 days,27,6.78,2,1,1,1.5,67.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1514,91 days,612,135.48,4,4,4,4.0,1354.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST1515,90 days,1078,253.93,4,5,5,4.5,2539.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1516,78 days,35,7.24,5,1,1,3.0,72.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1517,100 days,123,30.98,3,2,2,2.5,309.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1518,217 days,168,41.89,2,2,2,2.0,418.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1519,234 days,663,197.73,2,4,5,3.2,1977.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1520,98 days,245,84.21,3,2,3,2.7,842.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1521,80 days,588,193.29,5,4,5,4.7,1932.9,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1522,95 days,38,11.59,4,1,1,2.5,115.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1523,90 days,165,34.03,4,2,2,3.0,340.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1524,93 days,736,248.19,4,5,5,4.5,2481.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST1525,367 days,858,418.1,1,5,5,3.0,4181.0,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1526,77 days,48,10.25,5,1,1,3.0,102.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1527,104 days,660,169.02,3,4,4,3.5,1690.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1528,88 days,525,152.28,4,4,4,4.0,1522.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST1529,79 days,945,303.22,5,5,5,5.0,3032.2,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1530,85 days,484,130.32,5,4,4,4.5,1303.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST1531,239 days,308,73.01,1,3,3,2.0,730.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1532,104 days,572,183.97,3,4,5,3.7,1839.7,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1533,84 days,976,271.75,5,5,5,5.0,2717.5,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1534,83 days,176,68.55,5,2,3,3.7,685.5,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1535,78 days,33,7.68,5,1,1,3.0,76.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1536,91 days,350,73.76,4,3,3,3.5,737.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1537,366 days,217,80.16,1,2,3,1.7,801.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1538,174 days,104,20.29,2,2,1,1.8,202.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1539,105 days,615,161.78,3,4,4,3.5,1617.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1540,96 days,858,164.48,4,5,4,4.3,1644.8,Loyal,Upsell to premium plan + referral program,Basic
+CUST1541,86 days,86,21.4,5,2,1,3.3,214.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1542,78 days,768,179.04,5,5,5,5.0,1790.4,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1543,207 days,234,41.97,2,2,2,2.0,419.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1544,178 days,748,457.87,2,5,5,3.5,4578.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1545,79 days,195,38.26,5,2,2,3.5,382.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1546,99 days,848,160.22,3,5,4,3.8,1602.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1547,88 days,720,141.87,4,5,4,4.3,1418.7,Loyal,Upsell to premium plan + referral program,Basic
+CUST1548,268 days,864,188.61,1,5,5,3.0,1886.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1549,202 days,516,131.39,2,4,4,3.0,1313.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1550,85 days,624,120.76,5,4,4,4.5,1207.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1551,103 days,658,155.72,3,4,4,3.5,1557.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1552,238 days,990,231.79,1,5,5,3.0,2317.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1553,95 days,312,84.6,4,3,3,3.5,846.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1554,82 days,31,7.48,5,1,1,3.0,74.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1555,77 days,1078,353.3,5,5,5,5.0,3533.0,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1556,221 days,324,203.03,2,3,5,2.9,2030.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1557,103 days,1020,254.53,3,5,5,4.0,2545.3,Loyal,Upsell to premium plan + referral program,Premium
+CUST1558,98 days,225,158.68,3,2,4,2.9,1586.8,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1559,359 days,324,59.41,1,3,2,1.8,594.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1560,83 days,486,223.74,5,4,5,4.7,2237.4,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1561,82 days,465,98.51,5,4,3,4.3,985.1,Loyal,Upsell to premium plan + referral program,Basic
+CUST1562,96 days,108,23.79,4,2,2,3.0,237.9,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1563,98 days,810,154.12,3,5,4,3.8,1541.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1564,194 days,700,210.4,2,5,5,3.5,2104.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1565,89 days,51,16.04,4,1,1,2.5,160.4,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1566,101 days,748,146.5,3,5,4,3.8,1465.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1567,94 days,369,93.17,4,3,3,3.5,931.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1568,234 days,608,179.33,2,4,5,3.2,1793.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1569,254 days,624,131.12,1,4,4,2.5,1311.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1570,93 days,520,82.84,4,4,3,3.8,828.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1571,95 days,527,182.06,4,4,5,4.2,1820.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1572,220 days,1072,267.13,2,5,5,3.5,2671.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1573,92 days,288,63.6,4,3,2,3.3,636.0,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1574,305 days,52,15.74,1,1,1,1.0,157.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1575,269 days,370,111.35,1,3,3,2.0,1113.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1576,378 days,378,145.81,1,3,4,2.2,1458.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1577,82 days,594,215.08,5,4,5,4.7,2150.8,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1578,103 days,450,114.62,3,4,3,3.3,1146.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1579,235 days,175,56.86,2,2,2,2.0,568.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1580,78 days,1200,344.83,5,5,5,5.0,3448.3,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1581,101 days,82,23.32,3,1,2,2.2,233.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1582,355 days,204,59.92,1,2,2,1.5,599.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1583,95 days,46,10.54,4,1,1,2.5,105.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1584,97 days,182,51.05,4,2,2,3.0,510.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1585,95 days,440,80.61,4,3,3,3.5,806.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1586,80 days,540,169.87,5,4,4,4.5,1698.7,Loyal,Upsell to premium plan + referral program,Premium
+CUST1587,315 days,477,103.24,1,4,3,2.3,1032.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1588,358 days,56,16.72,1,1,1,1.0,167.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1589,105 days,490,147.12,3,4,4,3.5,1471.2,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1590,91 days,312,68.81,4,3,3,3.5,688.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1591,339 days,39,13.57,1,1,1,1.0,135.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1592,84 days,210,70.3,5,2,3,3.7,703.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1593,79 days,76,19.96,5,1,1,3.0,199.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1594,271 days,352,79.53,1,3,3,2.0,795.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1595,100 days,675,160.66,3,5,4,3.8,1606.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1596,220 days,500,102.18,2,4,3,2.8,1021.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1597,78 days,407,304.1,5,3,5,4.4,3041.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST1598,98 days,405,107.17,3,3,3,3.0,1071.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1599,270 days,476,150.52,1,4,4,2.5,1505.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1600,92 days,564,140.98,4,4,4,4.0,1409.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST1601,358 days,98,19.78,1,2,1,1.3,197.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1602,79 days,43,10.26,5,1,1,3.0,102.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1603,82 days,328,115.91,5,3,3,4.0,1159.1,Loyal,Upsell to premium plan + referral program,Premium
+CUST1604,105 days,416,174.94,3,3,4,3.2,1749.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1605,94 days,468,106.98,4,4,3,3.8,1069.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1606,92 days,448,141.46,4,4,4,4.0,1414.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1607,100 days,396,85.67,3,3,3,3.0,856.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1608,91 days,364,96.91,4,3,3,3.5,969.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1609,90 days,972,313.06,4,5,5,4.5,3130.6,Loyal,Upsell to premium plan + referral program,Premium
+CUST1610,216 days,690,152.4,2,5,4,3.3,1524.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1611,237 days,360,124.28,1,3,4,2.2,1242.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1612,247 days,646,169.25,1,4,4,2.5,1692.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1613,103 days,33,6.9,3,1,1,2.0,69.0,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1614,91 days,225,52.51,4,2,2,3.0,525.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1615,97 days,50,22.16,4,1,2,2.7,221.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1616,92 days,630,168.31,4,4,4,4.0,1683.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST1617,88 days,735,236.06,4,5,5,4.5,2360.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1618,263 days,20,7.03,1,1,1,1.0,70.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1619,192 days,720,115.55,2,5,3,3.1,1155.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1620,85 days,128,31.63,5,2,2,3.5,316.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1621,77 days,726,265.93,5,5,5,5.0,2659.3,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1622,201 days,160,58.63,2,2,2,2.0,586.3,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1623,100 days,72,15.08,3,1,1,2.0,150.8,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1624,171 days,189,66.98,2,2,3,2.2,669.8,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1625,189 days,144,55.69,2,2,2,2.0,556.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1626,278 days,49,10.39,1,1,1,1.0,103.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1627,81 days,416,79.18,5,3,3,4.0,791.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST1628,104 days,486,120.88,3,4,4,3.5,1208.8,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1629,190 days,486,91.17,2,4,3,2.8,911.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1630,220 days,102,20.86,2,2,1,1.8,208.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1631,246 days,225,65.14,1,2,2,1.5,651.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1632,89 days,884,200.82,4,5,5,4.5,2008.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST1633,99 days,234,44.03,3,2,2,2.5,440.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1634,331 days,42,15.21,1,1,1,1.0,152.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1635,191 days,54,10.01,2,1,1,1.5,100.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1636,209 days,54,9.92,2,1,1,1.5,99.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1637,193 days,648,198.07,2,4,5,3.2,1980.7,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1638,78 days,245,52.63,5,2,2,3.5,526.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1639,240 days,217,46.52,1,2,2,1.5,465.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1640,422 days,132,40.52,1,2,2,1.5,405.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1641,104 days,98,30.51,3,2,2,2.5,305.1,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1642,243 days,344,88.12,1,3,3,2.0,881.2,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1643,94 days,306,65.15,4,3,2,3.3,651.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1644,101 days,726,154.16,3,5,4,3.8,1541.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1645,213 days,224,79.59,2,2,3,2.2,795.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1646,96 days,380,129.81,4,3,4,3.7,1298.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1647,97 days,637,135.76,4,4,4,4.0,1357.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1648,99 days,40,14.92,3,1,1,2.0,149.2,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1649,82 days,615,232.63,5,4,5,4.7,2326.3,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1650,105 days,1056,253.47,3,5,5,4.0,2534.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST1651,102 days,742,161.76,3,5,4,3.8,1617.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1652,328 days,539,181.76,1,4,5,2.7,1817.6,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1653,94 days,693,218.51,4,5,5,4.5,2185.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST1654,95 days,115,35.57,4,2,2,3.0,355.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1655,91 days,210,103.4,4,2,3,3.2,1034.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1656,251 days,252,62.71,1,3,2,1.8,627.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1657,102 days,324,99.9,3,3,3,3.0,999.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1658,327 days,540,131.66,1,4,4,2.5,1316.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1659,174 days,846,200.41,2,5,5,3.5,2004.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1660,166 days,192,68.78,2,2,3,2.2,687.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1661,104 days,195,32.22,3,2,2,2.5,322.2,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1662,228 days,686,161.54,2,5,4,3.3,1615.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1663,83 days,343,103.78,5,3,3,4.0,1037.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST1664,312 days,636,120.45,1,4,4,2.5,1204.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1665,233 days,275,60.18,2,3,2,2.3,601.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1666,78 days,1104,279.22,5,5,5,5.0,2792.2,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1667,102 days,130,29.17,3,2,2,2.5,291.7,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1668,78 days,525,103.66,5,4,3,4.3,1036.6,Loyal,Upsell to premium plan + referral program,Basic
+CUST1669,172 days,176,52.41,2,2,2,2.0,524.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1670,102 days,520,142.45,3,4,4,3.5,1424.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1671,76 days,256,68.18,5,3,3,4.0,681.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST1672,102 days,833,296.33,3,5,5,4.0,2963.3,Loyal,Upsell to premium plan + referral program,Premium
+CUST1673,245 days,825,246.29,1,5,5,3.0,2462.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1674,230 days,37,10.67,2,1,1,1.5,106.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1675,158 days,38,11.22,2,1,1,1.5,112.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1676,97 days,34,6.73,4,1,1,2.5,67.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1677,76 days,600,113.44,5,4,3,4.3,1134.4,Loyal,Upsell to premium plan + referral program,Basic
+CUST1678,93 days,448,165.26,4,4,4,4.0,1652.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1679,228 days,264,88.94,2,3,3,2.5,889.4,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1680,79 days,252,63.63,5,3,2,3.8,636.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1681,80 days,369,94.82,5,3,3,4.0,948.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST1682,84 days,560,88.73,5,4,3,4.3,887.3,Loyal,Upsell to premium plan + referral program,Basic
+CUST1683,102 days,418,128.53,3,3,4,3.2,1285.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1684,92 days,759,332.36,4,5,5,4.5,3323.6,Loyal,Upsell to premium plan + referral program,Basic
+CUST1685,192 days,48,10.61,2,1,1,1.5,106.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1686,91 days,576,174.82,4,4,4,4.0,1748.2,Loyal,Upsell to premium plan + referral program,Standard
+CUST1687,78 days,450,116.91,5,4,3,4.3,1169.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST1688,95 days,610,147.9,4,4,4,4.0,1479.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST1689,212 days,507,97.37,2,4,3,2.8,973.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1690,105 days,544,189.82,3,4,5,3.7,1898.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1691,355 days,546,167.61,1,4,4,2.5,1676.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1692,177 days,47,10.76,2,1,1,1.5,107.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1693,91 days,100,30.17,4,2,2,3.0,301.7,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1694,317 days,324,96.41,1,3,3,2.0,964.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1695,415 days,159,46.37,1,2,2,1.5,463.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1696,276 days,39,6.54,1,1,1,1.0,65.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1697,133 days,57,16.33,2,1,1,1.5,163.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1698,95 days,60,13.91,4,1,1,2.5,139.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1699,98 days,1281,360.35,3,5,5,4.0,3603.5,Loyal,Upsell to premium plan + referral program,Premium
+CUST1700,93 days,164,39.85,4,2,2,3.0,398.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1701,93 days,329,79.14,4,3,3,3.5,791.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1702,245 days,55,11.57,1,1,1,1.0,115.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1703,81 days,369,151.38,5,3,4,4.2,1513.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST1704,135 days,20,7.53,2,1,1,1.5,75.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1705,306 days,260,57.47,1,3,2,1.8,574.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1706,126 days,49,17.36,2,1,1,1.5,173.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1707,264 days,650,138.09,1,4,4,2.5,1380.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1708,90 days,100,34.97,4,2,2,3.0,349.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1709,78 days,455,128.99,5,4,4,4.5,1289.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST1710,105 days,720,198.13,3,5,5,4.0,1981.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1711,90 days,840,227.38,4,5,5,4.5,2273.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST1712,88 days,494,131.46,4,4,4,4.0,1314.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1713,84 days,288,83.7,5,3,3,4.0,837.0,Loyal,Upsell to premium plan + referral program,Standard
+CUST1714,253 days,112,29.91,1,2,2,1.5,299.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1715,83 days,512,159.26,5,4,4,4.5,1592.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1716,104 days,805,371.88,3,5,5,4.0,3718.8,Loyal,Upsell to premium plan + referral program,Basic
+CUST1717,197 days,288,75.63,2,3,3,2.5,756.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1718,105 days,637,149.62,3,4,4,3.5,1496.2,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1719,95 days,629,110.56,4,4,3,3.8,1105.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1720,178 days,560,138.47,2,4,4,3.0,1384.7,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1721,142 days,30,11.85,2,1,1,1.5,118.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1722,227 days,207,64.85,2,2,2,2.0,648.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1723,90 days,1144,250.11,4,5,5,4.5,2501.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST1724,199 days,40,9.9,2,1,1,1.5,99.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1725,247 days,649,192.95,1,4,5,2.7,1929.5,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1726,97 days,192,68.79,4,2,3,3.2,687.9,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1727,236 days,296,94.87,2,3,3,2.5,948.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1728,144 days,37,11.34,2,1,1,1.5,113.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1729,81 days,374,117.14,5,3,3,4.0,1171.4,Loyal,Upsell to premium plan + referral program,Standard
+CUST1730,89 days,738,213.39,4,5,5,4.5,2133.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST1731,323 days,20,6.7,1,1,1,1.0,67.0,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1732,167 days,442,92.01,2,4,3,2.8,920.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1733,92 days,1026,192.09,4,5,5,4.5,1920.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST1734,243 days,629,128.86,1,4,4,2.5,1288.6,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1735,100 days,125,32.44,3,2,2,2.5,324.4,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1736,99 days,351,93.47,3,3,3,3.0,934.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1737,105 days,99,21.21,3,2,1,2.3,212.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1738,349 days,750,173.56,1,5,4,2.8,1735.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1739,340 days,715,146.28,1,5,4,2.8,1462.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1740,96 days,816,181.6,4,5,5,4.5,1816.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST1741,104 days,703,187.97,3,5,5,4.0,1879.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST1742,96 days,264,88.19,4,3,3,3.5,881.9,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1743,278 days,408,96.45,1,3,3,2.0,964.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1744,159 days,61,16.98,2,1,1,1.5,169.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1745,181 days,975,237.94,2,5,5,3.5,2379.4,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1746,174 days,48,11.88,2,1,1,1.5,118.8,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1747,208 days,615,161.88,2,4,4,3.0,1618.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1748,92 days,918,289.26,4,5,5,4.5,2892.6,Loyal,Upsell to premium plan + referral program,Premium
+CUST1749,91 days,578,118.29,4,4,3,3.8,1182.9,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1750,101 days,36,25.66,3,1,2,2.2,256.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1751,167 days,165,57.97,2,2,2,2.0,579.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1752,169 days,160,28.11,2,2,2,2.0,281.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1753,96 days,304,84.7,4,3,3,3.5,847.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1754,161 days,35,6.65,2,1,1,1.5,66.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1755,105 days,1155,209.45,3,5,5,4.0,2094.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST1756,81 days,910,211.33,5,5,5,5.0,2113.3,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1757,246 days,64,13.22,1,1,1,1.0,132.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1758,254 days,172,59.46,1,2,2,1.5,594.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1759,234 days,168,43.23,2,2,2,2.0,432.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1760,80 days,770,159.44,5,5,4,4.8,1594.4,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1761,95 days,480,88.11,4,4,3,3.8,881.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1762,229 days,969,272.02,2,5,5,3.5,2720.2,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1763,91 days,528,142.27,4,4,4,4.0,1422.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST1764,94 days,1012,274.83,4,5,5,4.5,2748.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1765,202 days,720,271.57,2,5,5,3.5,2715.7,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1766,83 days,200,56.44,5,2,2,3.5,564.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1767,238 days,1190,261.16,1,5,5,3.0,2611.6,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1768,158 days,37,12.05,2,1,1,1.5,120.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1769,77 days,1360,305.35,5,5,5,5.0,3053.5,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1770,84 days,450,93.03,5,4,3,4.3,930.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1771,251 days,540,103.64,1,4,3,2.3,1036.4,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1772,229 days,848,160.25,2,5,4,3.3,1602.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1773,251 days,468,99.57,1,4,3,2.3,995.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1774,278 days,636,206.11,1,4,5,2.7,2061.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1775,292 days,55,11.12,1,1,1,1.0,111.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1776,152 days,47,11.33,2,1,1,1.5,113.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1777,102 days,207,62.87,3,2,2,2.5,628.7,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1778,89 days,136,25.34,4,2,2,3.0,253.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1779,76 days,527,191.03,5,4,5,4.7,1910.3,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1780,93 days,328,133.45,4,3,4,3.7,1334.5,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1781,82 days,897,248.56,5,5,5,5.0,2485.6,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1782,76 days,480,173.33,5,4,4,4.5,1733.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1783,383 days,333,93.51,1,3,3,2.0,935.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1784,76 days,196,41.51,5,2,2,3.5,415.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1785,76 days,546,136.85,5,4,4,4.5,1368.5,Loyal,Upsell to premium plan + referral program,Basic
+CUST1786,99 days,861,224.88,3,5,5,4.0,2248.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST1787,79 days,456,89.7,5,4,3,4.3,897.0,Loyal,Upsell to premium plan + referral program,Basic
+CUST1788,79 days,975,255.58,5,5,5,5.0,2555.8,VIP,Offer exclusive content + loyalty rewards,Premium
+CUST1789,104 days,578,116.05,3,4,3,3.3,1160.5,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1790,93 days,172,44.74,4,2,2,3.0,447.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1791,192 days,280,58.39,2,3,2,2.3,583.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1792,380 days,33,6.63,1,1,1,1.0,66.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1793,194 days,32,10.26,2,1,1,1.5,102.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1794,220 days,148,30.6,2,2,2,2.0,306.0,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1795,79 days,50,14.31,5,1,1,3.0,143.1,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1796,104 days,46,12.05,3,1,1,2.0,120.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1797,173 days,33,16.36,2,1,1,1.5,163.6,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1798,93 days,726,160.02,4,5,4,4.3,1600.2,Loyal,Upsell to premium plan + referral program,Basic
+CUST1799,253 days,413,105.72,1,3,3,2.0,1057.2,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1800,99 days,924,230.23,3,5,5,4.0,2302.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1801,369 days,66,16.03,1,1,1,1.0,160.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1802,269 days,67,15.41,1,1,1,1.0,154.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Premium
+CUST1803,99 days,384,123.11,3,3,4,3.2,1231.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1804,274 days,128,26.63,1,2,2,1.5,266.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1805,162 days,53,9.97,2,1,1,1.5,99.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1806,369 days,246,99.86,1,3,3,2.0,998.6,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1807,80 days,190,54.86,5,2,2,3.5,548.6,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1808,427 days,126,30.29,1,2,2,1.5,302.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1809,82 days,405,97.97,5,3,3,4.0,979.7,Loyal,Upsell to premium plan + referral program,Basic
+CUST1810,104 days,165,44.16,3,2,2,2.5,441.6,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1811,85 days,106,22.47,5,2,2,3.5,224.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1812,335 days,680,146.92,1,5,4,2.8,1469.2,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1813,402 days,22,7.35,1,1,1,1.0,73.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1814,120 days,32,6.32,2,1,1,1.5,63.2,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1815,286 days,391,174.9,1,3,4,2.2,1749.0,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1816,101 days,47,11.85,3,1,1,2.0,118.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1817,77 days,357,124.02,5,3,4,4.2,1240.2,Loyal,Upsell to premium plan + referral program,Basic
+CUST1818,101 days,897,147.04,3,5,4,3.8,1470.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1819,79 days,366,102.1,5,3,3,4.0,1021.0,Loyal,Upsell to premium plan + referral program,Premium
+CUST1820,78 days,160,27.92,5,2,2,3.5,279.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1821,82 days,162,51.3,5,2,2,3.5,513.0,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1822,99 days,322,78.48,3,3,3,3.0,784.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1823,93 days,136,33.14,4,2,2,3.0,331.4,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1824,85 days,624,193.2,5,4,5,4.7,1932.0,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1825,82 days,80,30.27,5,1,2,3.2,302.7,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1826,296 days,350,81.93,1,3,3,2.0,819.3,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1827,235 days,450,124.82,2,4,4,3.0,1248.2,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1828,324 days,242,69.81,1,2,3,1.7,698.1,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1829,89 days,532,88.36,4,4,3,3.8,883.6,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1830,92 days,252,71.07,4,3,3,3.5,710.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1831,217 days,520,164.67,2,4,4,3.0,1646.7,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1832,93 days,504,133.65,4,4,4,4.0,1336.5,Loyal,Upsell to premium plan + referral program,Standard
+CUST1833,86 days,460,111.07,5,4,3,4.3,1110.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST1834,104 days,60,19.01,3,1,1,2.0,190.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1835,96 days,1113,333.73,4,5,5,4.5,3337.3,Loyal,Upsell to premium plan + referral program,Premium
+CUST1836,101 days,680,408.08,3,5,5,4.0,4080.8,Loyal,Upsell to premium plan + referral program,Premium
+CUST1837,89 days,110,34.23,4,2,2,3.0,342.3,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1838,174 days,258,67.59,2,3,3,2.5,675.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1839,102 days,180,66.43,3,2,3,2.7,664.3,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1840,90 days,855,220.67,4,5,5,4.5,2206.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST1841,332 days,351,99.29,1,3,3,2.0,992.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1842,85 days,576,134.83,5,4,4,4.5,1348.3,Loyal,Upsell to premium plan + referral program,Basic
+CUST1843,94 days,33,10.75,4,1,1,2.5,107.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1844,374 days,38,11.84,1,1,1,1.0,118.4,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1845,81 days,516,125.03,5,4,4,4.5,1250.3,Loyal,Upsell to premium plan + referral program,Standard
+CUST1846,95 days,33,10.51,4,1,1,2.5,105.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1847,99 days,174,38.19,3,2,2,2.5,381.9,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1848,102 days,629,197.87,3,4,5,3.7,1978.7,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1849,81 days,208,43.23,5,2,2,3.5,432.3,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1850,328 days,160,51.97,1,2,2,1.5,519.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1851,76 days,156,39.69,5,2,2,3.5,396.9,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1852,97 days,39,11.87,4,1,1,2.5,118.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1853,92 days,252,102.35,4,3,3,3.5,1023.5,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1854,92 days,483,162.49,4,4,4,4.0,1624.9,Loyal,Upsell to premium plan + referral program,Basic
+CUST1855,189 days,660,168.68,2,4,4,3.0,1686.8,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1856,90 days,616,152.99,4,4,4,4.0,1529.9,Loyal,Upsell to premium plan + referral program,Basic
+CUST1857,82 days,528,292.45,5,4,5,4.7,2924.5,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1858,94 days,72,15.14,4,1,1,2.5,151.4,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1859,97 days,468,132.17,4,4,4,4.0,1321.7,Loyal,Upsell to premium plan + referral program,Standard
+CUST1860,100 days,490,108.11,3,4,3,3.3,1081.1,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1861,439 days,376,85.19,1,3,3,2.0,851.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1862,103 days,88,21.97,3,2,2,2.5,219.7,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1863,78 days,564,130.76,5,4,4,4.5,1307.6,Loyal,Upsell to premium plan + referral program,Standard
+CUST1864,105 days,159,33.09,3,2,2,2.5,330.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1865,195 days,124,25.95,2,2,2,2.0,259.5,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1866,104 days,680,119.14,3,5,4,3.8,1191.4,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1867,187 days,552,121.33,2,4,4,3.0,1213.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1868,240 days,108,26.19,1,2,2,1.5,261.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1869,382 days,31,10.03,1,1,1,1.0,100.3,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1870,104 days,410,168.3,3,3,4,3.2,1683.0,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1871,94 days,432,123.99,4,3,4,3.7,1239.9,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1872,425 days,300,230.31,1,3,5,2.4,2303.1,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1873,298 days,765,172.35,1,5,4,2.8,1723.5,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1874,354 days,430,165.63,1,3,4,2.2,1656.3,At Risk,Win-back campaign + survey for feedback,Premium
+CUST1875,76 days,360,127.17,5,3,4,4.2,1271.7,Loyal,Upsell to premium plan + referral program,Premium
+CUST1876,105 days,832,171.9,3,5,4,3.8,1719.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1877,91 days,320,68.17,4,3,3,3.5,681.7,Average,Re-engagement emails + limited-time discounts,Basic
+CUST1878,183 days,144,33.89,2,2,2,2.0,338.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1879,98 days,760,208.59,3,5,5,4.0,2085.9,Loyal,Upsell to premium plan + referral program,Standard
+CUST1880,101 days,42,11.76,3,1,1,2.0,117.6,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1881,273 days,405,112.71,1,3,3,2.0,1127.1,At Risk,Win-back campaign + survey for feedback,Basic
+CUST1882,81 days,286,71.82,5,3,3,4.0,718.2,Loyal,Upsell to premium plan + referral program,Basic
+CUST1883,398 days,210,50.95,1,2,2,1.5,509.5,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1884,98 days,450,169.15,3,4,4,3.5,1691.5,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1885,100 days,735,221.61,3,5,5,4.0,2216.1,Loyal,Upsell to premium plan + referral program,Standard
+CUST1886,90 days,540,148.98,4,4,4,4.0,1489.8,Loyal,Upsell to premium plan + referral program,Standard
+CUST1887,221 days,550,172.33,2,4,4,3.0,1723.3,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1888,97 days,44,10.39,4,1,1,2.5,103.9,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1889,78 days,507,98.67,5,4,3,4.3,986.7,Loyal,Upsell to premium plan + referral program,Basic
+CUST1890,184 days,21,7.29,2,1,1,1.5,72.9,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Basic
+CUST1891,94 days,595,125.07,4,4,4,4.0,1250.7,Loyal,Upsell to premium plan + referral program,Basic
+CUST1892,100 days,672,180.42,3,5,5,4.0,1804.2,Loyal,Upsell to premium plan + referral program,Premium
+CUST1893,87 days,848,166.49,5,5,4,4.8,1664.9,VIP,Offer exclusive content + loyalty rewards,Standard
+CUST1894,77 days,44,11.04,5,1,1,3.0,110.4,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1895,143 days,32,10.27,2,1,1,1.5,102.7,Inactive,Reactivation campaign (1-month free)+Churn postmortem,Standard
+CUST1896,104 days,528,169.0,3,4,4,3.5,1690.0,Average,Re-engagement emails + limited-time discounts,Standard
+CUST1897,76 days,102,30.84,5,2,2,3.5,308.4,Average,Re-engagement emails + limited-time discounts,Premium
+CUST1898,95 days,68,20.48,4,1,1,2.5,204.8,At Risk,Win-back campaign + survey for feedback,Standard
+CUST1899,104 days,36,11.1,3,1,1,2.0,111.0,At Risk,Win-back campaign + survey for feedback,Basic
